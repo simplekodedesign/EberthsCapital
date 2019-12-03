@@ -1,0 +1,136 @@
+:root{
+  /* --primary: rgb(200, 209, 21); */
+  --primary: #bf8a21;
+  --secondary: black;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.bold{
+  color: var(--primary)
+}
+
+.title{
+  font-size: 3em;
+  width: 100%;
+  text-align: center;
+}
+
+body, h1, h2, h3, h4, h5, p{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  padding-left: 20px;
+  z-index: 3;
+}
+
+header > img{
+  height: 100%;
+  width: auto;
+}
+
+header > .navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  width: 40%;
+  min-width: 300px;
+}
+
+.navbar > a:hover{
+  color: var(--primary);
+}
+
+section{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 50px;
+}
+
+#hero{
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.heroInfo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+}
+
+.heroInfo > h2 {
+  font-size: 5em;
+}
+
+.heroInfo > h1 {
+  font-size: 5em;
+  letter-spacing: 30px;
+}
+
+.heroInfo > p{
+  width: 60ch;
+}
+
+.heroInfo > button{
+  background-color: var(--primary);
+  color: white;
+  padding: 10px 30px;
+  width: 200px;
+  border: 0;
+  outline: 0;
+}
+
+#Quiensoy{
+  justify-content: space-around;
+}
+
+.imgContainer{
+  position: relative;
+  min-width: 320px;
+  width: 50%;
+  max-width: 500px;
+}
+
+.imgContainer::before {
+  content: "";
+  width: 100%;
+  background-color: var(--secondary);
+  height: 50%;
+  position: absolute;
+  bottom: 0;
+  z-index: 0;
+}
+
+.imgContainer > img {
+  width: 90%;
+  height: auto;
+  position: relative;
+}
+
+#Quiensoy p{
+  width: 60ch;
+}
