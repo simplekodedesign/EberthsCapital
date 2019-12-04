@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>eCapital | Make your life better</title>
     <link rel="stylesheet" href="css/master.css">
   </head>
-  <body>
+  <body id="body">
     <header>
       <img src="img/logo.webp" alt="Eberths">
       <div class="navbar">
@@ -41,18 +43,43 @@
       </p>
     </section>
 
-    <section id="services">
+    <section id="Servicios">
       <h1 class="title">Servicios</h1>
 
-      <div class="service">
-        <img src="#" alt="">
-        <div class="">
-          <p>Info</p>
-        </div>
-      </div>
+      <div class="services-container">
 
+        <div class="service">
+          <img src="#" alt="">
+          <div class="service-info">
+            <h2>Nombre Servicio</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Temporibus nam blanditiis ipsum quisquam
+            </p>
+            
+            <span class="button service-more" service="servicio1">Más Información</span>
+          </div>
+        </div>
+
+      </div>
     </section>
 
-    <script type="text/javascript" src="js/main.js"></script>
+    <section id="popup-servicesContainer">
+      <div class="popup-service" id="servicio1">
+        <span class="backButton">REGRESAR</span>
+        <img src="./img/Logo prueba.jpg" alt="">
+        <div class="content">
+          <h1>TITLE</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Repellendus laboriosam rem recusandae possimus architecto 
+            debitis iusto consequatur saepe sint! Aliquid iure ratione
+            quo animi eveniet voluptas officia ad, temporibus delectus.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <script type="text/javascript" src="./scripts/main.js"></script>
   </body>
 </html>
