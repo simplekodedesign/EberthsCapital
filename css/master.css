@@ -8,6 +8,13 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Melanic Black';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Melanic Black'), url('fonts/MelanicBlack.ttf') format('ttf');
+}
+
 html{
   scroll-behavior: smooth;
 }
@@ -25,6 +32,14 @@ html{
 body, h1, h2, h3, h4, h5, p{
   margin: 0;
   padding: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  text-rendering: geometricPrecision;
+}
+
+h1{
+  font-family: "Melanic Black", serif;
+  font-weight: 500;
 }
 
 a{
@@ -73,36 +88,83 @@ section{
 #hero{
   justify-content: flex-start;
   align-items: center;
+  background-color: black;
+  min-width: 100%;
+  overflow: hidden;
+  max-width: 100%;
+  position: relative;
 }
 
 .heroInfo{
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: space-between;
+  justify-content: space-around;
+  width: 45%;
+  min-width: 320px;
+  min-height: 500px;
+  height: 90%;
+  max-height: 900px;
 }
 
-.heroInfo > h2 {
-  font-size: 5em;
+.heroTitle{
+  position: relative;
 }
 
-.heroInfo > h1 {
-  font-size: 5em;
+.heroTitle::before{
+  content: "";
+  width: 30%;
+  background-color: white;
+  height: 5px;
+  border-radius: 12px;
+  position: absolute;
+
+  bottom: -50px;
+  left: 0;
+}
+
+.heroTitle > h2 {
+  font-family: "Melanic Black", serif;
+  font-size: 4em;
+  color: white;
+  height: 70px;
+  letter-spacing: 3px;
+}
+
+.heroTitle > h1 {
+  font-size: 4em;
   letter-spacing: 30px;
+  height: 70px;
 }
 
 .heroInfo > p{
-  width: 60ch;
+  width: 40ch;
+  color: white;
+  font-size: 1.5em;
+  word-spacing: 6px;
+  letter-spacing: 2px;
 }
 
 .heroInfo > button{
   background-color: var(--primary);
   color: white;
   padding: 10px 30px;
-  width: 200px;
+  width: 60%;
+  font-size: 2em;
   border: 0;
   outline: 0;
 }
+
+.heroImg{
+  width: 80%;
+  position: absolute;
+  height: 92vh;
+  background-color: goldenrod;
+  border-radius: 34% 66% 52% 48% / 52% 73% 27% 48%;
+  right: -28%;
+  top: -8%;
+}
+
+
 
 #Quiensoy{
   justify-content: space-around;
