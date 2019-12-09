@@ -196,3 +196,77 @@ section{
 #Quiensoy p{
   width: 60ch;
 }
+
+/*-------------------------SERVICIOS-----------------------------------*/
+
+#Servicios {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.service {
+  width: 350px;
+  height: 220px;
+  background-color: gray;
+  padding: 5px;
+  color: rgb(167, 167, 167);
+}
+
+.service > img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.service > div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(70, 70, 70);
+  padding: 15px;
+}
+
+#popup-servicesContainer {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  left: 100%;
+  transform-origin: right center;
+  /* transform: scale(0, 1); */
+  transition: .5s ease-in-out;
+  z-index: 4;
+}
+
+.popup-service {
+  display: none;
+  grid-template-columns: 1fr 1fr;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  background-color: red
+}
+
+.popup-service > img {
+  width: 50%;
+}
+
+.popup-service > .backButton {
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
