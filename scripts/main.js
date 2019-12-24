@@ -3,9 +3,12 @@ var body = document.getElementById("body")
 var pop_up = document.getElementById("popup-services");
 var services_buttons = document.getElementsByClassName("service-more")
 var backButtons = document.getElementsByClassName("backButton")
+var header = document.getElementById("header");
 
 window.addEventListener("load", function () {
   const SERVICES_LENGTH = services_buttons.length
+
+  window.addEventListener("scroll", animateHeader)
 
   for (let i = 0; i < SERVICES_LENGTH; i++) {
     services_buttons[i].addEventListener("click", displayService)
@@ -13,9 +16,16 @@ window.addEventListener("load", function () {
   }
 })
 
+var animateHeader = () => {
+  if (window.scrollY > 0) {
+    header.classList.add("headerScrolled");
+  } else {
+    header.classList.remove("headerScrolled");
+  }
+}
+
 
 function displayService () {
-  console.log("HIHIHIHI")
   const serviceToDisplay = this.getAttribute("service")
   let service = document.getElementById(serviceToDisplay)
 

@@ -6,10 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>eCapital | Make your life better</title>
     <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="./ElementsScrollAnimation/ElementsScrollAnimation.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" rel="stylesheet">
   </head>
   <body id="body">
-    <header>
+    <header id="header">
       <img src="img/logo Eberths-04.png" alt="Eberths">
       <div class="navbar">
         <a href="#hero">Inicio</a>
@@ -25,14 +26,14 @@
       <div class="heroInfo">
         <div class="heroTitle">
           <h2>EBERTHS PEROZO</h2>
-          <h1 class="bold">INTERBANK TRADER & INVESTOR</h1>
+          <!-- <h1 class="bold">INTERBANK TRADER</h1> -->
         </div>
 
         <p>Descubre los beneficios de invertir en el trading</p>
         <button class="button" type="button" name="button">Conoce más</button>
       </div>
       <div class="heroImg">
-        <img src="#" alt="">
+        <img src="img/logo Eberths-01.png" alt="Hero">
       </div>
     </section>
 
@@ -86,10 +87,11 @@
 
     <section id="popup-servicesContainer">
       <div class="popup-service" id="servicio1">
-        <span class="backButton">REGRESAR</span>
-        <img src="./img/Logo prueba.jpg" alt="">
+        <div class="img">
+          <img src="./img/logo Eberths-01.png" alt="">
+        </div>
         <div class="content">
-          <h1>TITLE</h1>
+          <h1>Inversiones</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Repellendus laboriosam rem recusandae possimus architecto
@@ -97,15 +99,17 @@
             quo animi eveniet voluptas officia ad, temporibus delectus.
           </p>
         </div>
+        <span class="backButton">x</span>
       </div>
     </section>
 
     <section id="popup-servicesContainer">
       <div class="popup-service" id="servicio2">
-        <span class="backButton">REGRESAR</span>
-        <img src="./img/Logo prueba.jpg" alt="">
+        <div class="img">
+          <img src="./img/logo Eberths-01.png" alt="">
+        </div>
         <div class="content">
-          <h1>TITLE</h1>
+          <h1>Mentorias</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Repellendus laboriosam rem recusandae possimus architecto
@@ -113,6 +117,7 @@
             quo animi eveniet voluptas officia ad, temporibus delectus.
           </p>
         </div>
+        <span class="backButton">x</span>
       </div>
     </section>
 
@@ -139,7 +144,7 @@
     <section id="Equipo">
       <h1 class="title">EQUIPO</h1>
 
-      <img src="img/.png" alt="Team">
+      <img src="img/logo Eberths-01.png" alt="Team">
 
       <div class="cardsContainer">
         <div class="card">
@@ -220,62 +225,40 @@
         <div class="contact">
           <a href="mailto:support@ecapital.com" id="email">support@ecapital.com</a>
         </div>
-      </address>
-      <form class="contactForm" action="">
-        <div>
-          <label for="name">Name</label>
-          <input type="text" id="name" required>
-         </div>
-        <div>
-          <label for="email">Email:</label>
-          <input type="text" id="email" required>
-        </div>
-        <div>
-          <label for="message"></label>
-          <textarea name="Message" id="message" cols="30" rows="10"></textarea>
-        </div>
-      </form>
-      
-      <div id="Rs">
-        <div class="iconRS">
-          <div class="content">
+        <div id="Rs">
+          <div class="iconRS">
             <i class="fab fa-instagram"></i>
           </div>
-          <span class="border_top"></span>
-          <span class="border_right"></span>
-          <span class="border_bottom"></span>
-          <span class="border_left"></span>
-        </div>
-        <div class="iconRS">
-          <div class="content">
-            <i class="fab fa-github"></i>
+          <div class="iconRS">
+            <a href="https://api.whatsapp.com/send?phone=584266791090" target="_blank" id="number"><i class="fab fa-whatsapp"></i></a>
           </div>
-          <span class="border_top"></span>
-          <span class="border_right"></span>
-          <span class="border_bottom"></span>
-          <span class="border_left"></span>
-        </div>
-        <div class="iconRS">
-          <div class="content">
-            <i class="fab fa-google"></i>
+          <div>
+            <!--telegram-->
           </div>
-          <span class="border_top"></span>
-          <span class="border_right"></span>
-          <span class="border_bottom"></span>
-          <span class="border_left"></span>
         </div>
-        <div class="iconRS">
-          <div class="content">
-            <i class="fab fa-twitter"></i>
-          </div>
-          <span class="border_top"></span>
-          <span class="border_right"></span>
-          <span class="border_bottom"></span>
-          <span class="border_left"></span>
+      </address>
+  
+      <form class="myAnimatable contactForm" my-animation="clipShake center x" action="">
+        <h2>Enviame un mensaje:</h2>
+        <div>
+          <!-- <label for="email">Email:</label> -->
+ 
+          <input type="text" id="email" placeholder="Tu email *" required>
+          <input type="text" placeholder="Dime tu nombre" id="name">
         </div>
-      </div>
+        <!-- <div>
+          <label for="name">Name:</label>
+        </div> -->
+        <div>
+          <!-- <label for="message"></label> -->
+          <textarea name="Message" placeholder="Contáctame *" id="message" required></textarea>
+  
+        </div>
+        <button class="button">Envíar</button>
+      </form>
     </footer>
 
     <script type="text/javascript" src="./scripts/main.js"></script>
+    <script type="text/javascript" src="./ElementsScrollAnimation/ElementsScrollAnimation.js"></script>
   </body>
 </html>

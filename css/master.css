@@ -57,17 +57,26 @@ a{
 header{
   display: flex;
   justify-content: space-between;
-  background-color: white;
-  height: 50px;
+  align-items: center;
+  height: 70px;
   width: 100%;
   position: fixed;
   padding-left: 20px;
   z-index: 3;
   top: 0;
+  transition: .5s ease;
+}
+
+.headerScrolled{
+  background-color: black;
+}
+
+.headerScrolled > .navbar > a{
+  color: white;
 }
 
 header > img{
-  height: 100%;
+  height: 90%;
   width: auto;
 }
 
@@ -81,8 +90,7 @@ header > .navbar{
 }
 
 .navbar > a{
-  /* color: rgb(238, 238, 238); */
-  color: black;
+  color: white;
 }
 
 .navbar > a:hover{
@@ -182,18 +190,28 @@ section{
 }
 
 .heroImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 80%;
   position: absolute;
   height: 95vh;
-  background-color: goldenrod;
+  background-color: black;
   /* border-radius: 40% 60% 47% 53% / 50% 79% 21% 50%;
-  border-radius: 25% 75% 47% 53% / 50% 79% 21% 50%; */
-  border-radius: 25% 75% 62% 38% / 50% 37% 63% 50%;
+  border-radius: 25% 75% 47% 53% / 50% 79% 21% 50%; 
+  border-radius: 25% 75% 62% 38% / 50% 37% 63% 50%; */
   right: -26%;
   top: -11%;
 }
 
+.heroImg > img{
+  width: 50%;
+  /* height: 100%; */
+  /* position: absolute;
+  left: 0; */
+}
 
+/*---------------------Quien soy-----------------------------*/
 
 #Quiensoy{
   justify-content: space-around;
@@ -444,14 +462,30 @@ section{
   background-color: rgb(238, 238, 238);
 }
 
-.popup-service > img {
-  height: 100%;
+.popup-service > .content{
+  margin-top: 50px;
+  max-width: 60ch;
 }
+
+.popup-service > .img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-height: 100%;
+  max-width: 50vw;
+}
+
+.popup-service > .img > img {
+  max-height: 100%;
+  max-width: 100%;
+} 
 
 .popup-service > .backButton {
   position: absolute;
   top: 15px;
-  left: 0;
+  right: 25px;
+  font-size: 2.5em;
+  cursor: pointer;
 }
 
 /*-------------------BENEFICIOS--------------------------*/
@@ -575,10 +609,9 @@ footer {
 }
 
 footer > img{
-  height: 100%;
-  width: auto;
-  max-width: 300px;
-  max-height: 200px;
+  width: 30%;
+  /* max-width: 300px;
+  max-height: 200px; */
 }
 
 footer .contacCont{
@@ -599,15 +632,47 @@ footer a{
 
 footer > .contactForm{
   width: 30%;
+  min-height: 300px;
+  height: 100%;
+  max-height: 500px;
   min-width: 300px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   align-items: center;
+  justify-content: space-around;
 }
 
 .contactForm > div {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.contactForm h2{
+  text-align: left;
+  width: 100%;
+}
+
+.contactForm button{
+  width: 100%;
+}
+
+.contactForm input, .contactForm textarea{
+  background-color: transparent;
+  border: 1px solid var(--primary);
+  min-height: 20px;
+  padding: 10px 5px;
+  width: 48%;
+  font-size: 1.1em;
+  color: white;
+  outline: 0;
+  resize: none;
+}
+
+.contactForm textarea{
+  min-height: 100px;
   width: 100%;
 }
 
@@ -663,6 +728,7 @@ footer .contacCont .contact:last-child{
     width: 60px;
     cursor: pointer;
 }
+/*
 
 .iconRS span {
   background-color: var(--primary);
@@ -713,4 +779,4 @@ footer .contacCont .contact:last-child{
     left: 0px;
     top: 0px;
     transform-origin: bottom;
-}
+} */
