@@ -97,8 +97,6 @@ function animate (data) {
     
         }
     }
-
-    // console.log(data.style.getPropertyValue("animation-name"));
 }
 
 function animateScroll (e) {

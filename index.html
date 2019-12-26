@@ -39,12 +39,12 @@
     </section>
 
     <section id="Quiensoy">
-      <div class="imgContainer">
+      <div class="imgContainer myAnimatable" my-animation="fade bottom">
         <img src="img/eberths.png" alt="Who">
       </div>
       <div>
-        <h1 class="title">¿QUIEN <span class="bold">SOY?</span></h1>
-        <p>
+        <h1 class="title">¿QUIEN SOY?</h1>
+        <p class="myAnimatable" my-animation="bounce right">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
           incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
@@ -61,6 +61,11 @@
           <img src="img/Destacados-06.png" alt="">
         </div>
         <h3>Lorem Ipsum</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi ex quidem iusto 
+          delectus velit fuga totam eaque nobis obcaecati. Quisquam dolor hic repellat deleniti
+           ipsum. Unde ipsam vero mollitia inventore?
+        </p>
       </div>
 
       <div class="icon">
@@ -68,6 +73,11 @@
           <img src="img/Destacados-08.svg" alt="">
         </div>
         <h3>Lorem Ipsum</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil minima aperiam fugit iste 
+          fugiat officia laboriosam necessitatibus repellat beatae odit,
+          rerum placeat officiis asperiores explicabo, recusandae fuga blanditiis velit. Atque.
+        </p>
       </div>
 
       <div class="icon">
@@ -75,6 +85,11 @@
           <img src="img/Destacados-07.png" alt="Beneficios">
         </div>
         <h3>Lorem Ipsum</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam porro dolor explicabo facilis.
+           Quas eum veniam sit, quis nesciunt impedit cumque culpa eaque alias? Id 
+           fugit totam vel consectetur non!
+        </p>
       </div>
     </section>
 
@@ -83,32 +98,39 @@
 
       <div class="services-container">
 
-        <div class="service">
-          <img src="#" alt="">
+        <p class="myAnimatable" my-animation="fade left">
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque vero accusantium minus 
+          impedit et ipsum culpa ex quas veniam sapiente
+          similique voluptatem ratione unde eum sed, atque, facilis quibusdam dolores?
+
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Est possimus impedit sunt vero alias 
+          dignissimos, porro voluptates aspernatur quaerat nisi,
+          voluptatibus nostrum corporis totam architecto optio accusamus inventore voluptas dolorum!
+        </p>
+
+        <div class="service myAnimatable" my-animation="fade top">
           <div class="service-info">
-            <h2 class="titles">Nombre Servicio</h2>
+            <h2 class="titles">MENTORIAS</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Temporibus nam blanditiis ipsum quisquam
             </p>
-
-            <span class="button service-more" service="servicio1">+ Más Información</span>
+  
+            <span class="button service-more" service="servicio1">Conoce más -></span>
           </div>
         </div>
 
-        <div class="service">
-          <img src="#" alt="">
+        <div class="service myAnimatable" my-animation="fade bottom">
           <div class="service-info">
-            <h2 class="titles">Nombre Servicio</h2>
+            <h2 class="titles">INVERSIONES</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Temporibus nam blanditiis ipsum quisquam
             </p>
-
-            <span class="button service-more" service="servicio2">+ Más Información</span>
+  
+            <span class="button service-more" service="servicio2">Conoce más -></span>
           </div>
         </div>
-
       </div>
     </section>
 
@@ -150,52 +172,40 @@
 
     <section id="Equipo">
       <h1 class="title">EQUIPO</h1>
-
-      <img src="img/logo Eberths-01.png" alt="Team">
-
-      <div class="cardsContainer">
-        <div class="card">
-          <span class="icon"></span>
-          <div class="subcard">
-            <span>Analistas</span>
-          </div>
-        </div>
-
-        <div class="card">
-          <span class="icon"></span>
-          <div class="subcard active">
-            <span>Inversores</span>
-          </div>
-        </div>
-
-        <div class="card">
-          <span class="icon"></span>
-          <div class="subcard">
-            <span>Socios</span>
-          </div>
-        </div>
+      <div class="categories">
+        <h2 class="titles team active" id="inversores">Inversores</h2>
+        <h2 class="titles team" id="analistas">Analistas</h2>
+        <h2 class="titles team" id="socios">Socios</h2>
       </div>
-
-      <div class="teamContainer">
-        <h1 class="title bold">INVERSORES</h1>
-        <div class="member">
-          <img src="" alt="">
-          <h2>Jhon Doe</h2>
-          <h2 class="bold">Cargo</h2>
-          <span></span>
-        </div>
-        <div class="member">
-          <img src="" alt="">
-          <h2>Jhon Doe</h2>
-          <h2 class="bold">Cargo</h2>
-          <span></span>
-        </div>
-        <div class="member">
-          <img src="" alt="">
-          <h2>Jhon Doe</h2>
-          <h2 class="bold">Cargo</h2>
-          <span></span>
-        </div>
+      <div class="member inversor myAnimatable" my-animation="bounce left">
+        <img src="" alt="">
+        <h2>Jhon Doe</h2>
+        <h2 class="bold">Inversor</h2>
+        <button class="button">Leer biografía</button>
+      </div>
+      <div class="member inversor myAnimatable" my-animation="bounce bottom">
+        <img src="" alt="">
+        <h2>Jhon Doe</h2>
+        <h2 class="bold">Inversor</h2>
+        <button class="button">Leer biografía</button>
+      </div>
+      <div class="member inversor myAnimatable" my-animation="bounce right">
+        <img src="" alt="">
+        <h2>Jhon Doe</h2>
+        <h2 class="bold">Inversor</h2>
+        <button class="button">Leer biografía</button>
+      </div>
+      <div class="member analista" my-animation="bounce bottom">
+        <img src="" alt="">
+        <h2>Jhon Doe</h2>
+        <h2 class="bold">Analista</h2>
+        <button class="button">Leer biografía</button>
+      </div>
+      <div class="member socio" my-animation="bounce bottom">
+        <img src="" alt="">
+        <h2>Jhon Doe</h2>
+        <h2 class="bold">Socio</h2>
+        <button class="button">Leer biografía</button>
       </div>
     </section>
 
@@ -221,7 +231,7 @@
 
       <img src="img/logo Eberths-01.png" alt="logo" class="logo" id="logoFooter">
 
-      <address class="contacCont">
+      <address class="contacCont" id="Contacto">
         <h3>Contact us:</h3>
         <div class="contact" >
           <a href="https://www.google.com.co/maps/place/Buenos+Aires,+Argentina/@-37.0582747,-64.5212482,6z/data=!3m1!4b1!4m9!3m8!1s0x95edbcb7595281d9:0x4ad309fcdcf0a144!5m3!1s2018-06-06!4m1!1i2!8m2!3d-37.2017285!4d-59.8410697" id="location">Argentina, Provincia/Estado, Ciudad.</a>
