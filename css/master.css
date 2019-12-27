@@ -158,10 +158,10 @@ section{
   right: 0;
   bottom: 0;
   transform-origin: bottom;
-  /* transform: scale(1,0); */
+  transform: scale(1,0);
   opacity: .06;
   position: absolute;
-  animation: graphic 4s ease infinite alternate;
+  animation: graphic 4s ease 1s forwards;
   z-index: 0;
 }
 
@@ -235,6 +235,13 @@ section{
   font-weight: 100 !important;
   text-align: center;
   font-weight: bold;
+  transition: .5s ease;
+}
+
+.heroInfo > .button:hover{
+  background-color: var(--primary);
+  color: white;
+  border-color: var(--primary)
 }
 
 .heroImg{
@@ -242,11 +249,39 @@ section{
   justify-content: center;
   align-items: center;
   width: 45%;
-  height: 95vh;
+  /* height: 95vh; */
+  /* transform-style: preserve-3d; */
+  /* transform: rotateY(45deg); */
+  position: relative;
 }
 
 .heroImg > img{
   width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.heroImg::after{
+  content: "";
+  width: 99%;
+  height: 99%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  border-radius: 50%;
+  transition: .5s;
+  z-index: -1;
+}
+
+.heroImg:hover .heroImg::after{
+  /* box-shadow: 0px 0px 50px 20px var(--primary); */
+  transform: rotateY(45deg);
+}
+
+.heroImg::hover img {
+  transform: rotateY(45deg);
 }
 
 /*---------------------Quien soy-----------------------------*/
@@ -260,6 +295,9 @@ section{
   min-width: 320px;
   width: 50%;
   max-width: 500px;
+  min-height: initial !important;
+  justify-content: center !important;
+  margin: 20px 0;
 }
 
 /* .imgContainer::before {
@@ -286,9 +324,12 @@ section{
 }
 
 #Quiensoy p{
-  width: 40ch;
+  min-width: 300px;
+  width: 100%;
+  max-width: 40ch;
   font-size: 1.4em;
   letter-spacing: .5px;
+  margin: 20px 0;
 }
 
 /*-------------------BENEFICIOS--------------------------*/
@@ -313,8 +354,17 @@ section{
   min-width: 300px;
   max-width: 20%;
   text-align: center;
-  /* min-height: 300px; */
+  margin: 20px 0;
+  min-height: 550px;
   /* max-width: 500px; */
+}
+
+#icon-second{
+  animation-delay: .5s;
+}
+
+#icon-third{
+  animation-delay: 1s;
 }
 
 #Beneficios > .icon > div{
@@ -350,7 +400,7 @@ section{
   z-index: 0;
 }
 
-#Beneficios > .icon > div > img{
+#Beneficios > .icon > div > object{
   /* background-color: var(--primary); */
   /* min-width: 200px; */
   width: 50%;
@@ -388,6 +438,7 @@ section{
 
 .services-container{
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   height: auto;
@@ -397,6 +448,7 @@ section{
 .services-container > p {
   width: 45ch;
   color: white;
+  margin: 20px 0;
 } 
 
 .service {
@@ -406,7 +458,9 @@ section{
   height: 75vh;
   background-color: #333;
   padding: 0px 15px;
+  margin: 10px 0;
   position: relative;
+  box-shadow: 0px 12px 30px 5px;
 }
 
 .service-info{
@@ -498,11 +552,12 @@ section{
   align-items: center;
   position: relative;
   padding: 0;
-  min-height: 110vh;
+  min-height: 125vh;
   height: auto;
 }
 
 #Equipo > .title{  
+  margin-top: 40px;
   z-index: 1;
 }
 
@@ -581,15 +636,16 @@ section{
 
 .categories{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  flex-wrap: wrap;
   width: 100%;
-  padding: 0 25%;
 }
 
 .categories > h2{
   cursor: pointer;
   font-size: 2em;
   position: relative;
+  margin: 10px 30px 0 30px;
 }
 
 .categories > .active::before{
@@ -618,6 +674,9 @@ section{
   flex-direction: column;
   text-align: center;
   position: relative;
+  margin: 50px 0 100px 0;
+  overflow: hidden;
+  box-shadow: 0px 25px 50px -5px;
 }
 
 .member::before, .member::after{
@@ -625,13 +684,22 @@ section{
 
   position: absolute;
   top: 9%;
-  left: -4%;
+  left: -10%;
 
   transform: rotateZ(-45deg);
   transform-style: preserve-3d;
-  width: 30%;
+  width: 50%;
   height: 4px;
   background-color: var(--primary);
+}
+
+.member::after{
+  top: auto;
+  bottom: 9.5%;
+  right: -15%;
+  left: auto;
+
+  transform: rotateZ(130deg)
 }
 
 .member > .button{
@@ -640,18 +708,12 @@ section{
   border: 2px solid var(--primary);
   width: 70%;
   font-size: 1.2em;
+  transition: .5s ease;
 }
 
-.member::after{
-  top: auto;
-  bottom: 9.5%;
-  right: -4.9%;
-  left: auto;
-
-  transform: rotateZ(130deg)
+.member > .button:hover{
+  background-color: var(--primary);
 }
-
-
 
 /*-------------------------------TESTIMONIOS----------------------------*/
 
@@ -898,3 +960,10 @@ footer .contacCont .contact:last-child{
     top: 0px;
     transform-origin: bottom;
 } */
+
+
+@media screen and (max-width: 450px){
+  #header-icon{
+    display: block;
+  }
+}

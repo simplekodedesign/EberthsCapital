@@ -103,12 +103,12 @@ function animateScroll (e) {
     for(var i = 0; i < animable.length; i++) {
         if(animable[i].getBoundingClientRect().top < 600) {
             // animable[i].addEventListener("click", animate);
-            animable[i].addEventListener("animationend", stopAnimation);
+            // animable[i].addEventListener("animationend", stopAnimation);
             animate(animable[i]);
         }
     }
 }
 
-function stopAnimation () {
-    this.style.setProperty("animation-play-state", "paused");
-}
+// function stopAnimation () {
+//     this.style.setProperty("animation-play-state", "paused");
+// }

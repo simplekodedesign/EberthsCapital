@@ -11,6 +11,8 @@ const sociosB = document.getElementById("socios")
 const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
+var velas
+var svg
 
 window.addEventListener("load", function () {
   const SERVICES_LENGTH = services_buttons.length
@@ -21,6 +23,14 @@ window.addEventListener("load", function () {
     services_buttons[i].addEventListener("click", displayService)
     backButtons[i].addEventListener("click", unDisplayService)
   }
+
+  svg = document.getElementsByTagName("object")
+
+  window.addEventListener("scroll", () => {
+    for(elementSVG of svg){
+      svgAnimate(elementSVG)
+    }
+  })
 
   inversoresB.addEventListener("click", function (){
     show(false, socios)
@@ -61,6 +71,18 @@ function show(display, who){
   }
 }
 
+
+function svgAnimate(svgDocument){
+  let svg = svgDocument.contentDocument
+  velas = svg.getElementsByClassName("element")
+  console.log(svgDocument.getBoundingClientRect().top)
+  if(svgDocument.getBoundingClientRect().top < 600) {
+		for(element of velas){
+			element.classList.add("animate")
+		}
+  }
+}
+    
 var animateHeader = () => {
   if (window.scrollY > 0) {
     header.classList.add("headerScrolled");
