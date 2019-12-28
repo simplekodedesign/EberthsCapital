@@ -1,6 +1,6 @@
 
 var body = document.getElementById("body")
-var pop_up = document.getElementById("popup-services");
+var pop_up = document.getElementById("popup-services")
 const services_buttons = document.getElementsByClassName("service-more")
 const backButtons = document.getElementsByClassName("backButton")
 const header = document.getElementById("header");
@@ -11,6 +11,7 @@ const sociosB = document.getElementById("socios")
 const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
+const headerButton = document.getElementById("navbar-icon")
 var velas
 var svg
 
@@ -23,6 +24,8 @@ window.addEventListener("load", function () {
     services_buttons[i].addEventListener("click", displayService)
     backButtons[i].addEventListener("click", unDisplayService)
   }
+
+  // headerButton.addEventListener("click", )
 
   svg = document.getElementsByTagName("object")
 
@@ -70,7 +73,6 @@ function show(display, who){
     animate(element);
   }
 }
-
 
 function svgAnimate(svgDocument){
   let svg = svgDocument.contentDocument

@@ -62,9 +62,9 @@ header{
   width: 100%;
   position: fixed;
   padding-left: 20px;
-  z-index: 3;
   top: 0;
   transition: .5s ease;
+  z-index: 3;
 }
 
 .headerScrolled{
@@ -90,13 +90,49 @@ header > .navbar{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 100%;
+  flex-wrap: wrap;
+  min-height: 100%;
   width: 50%;
   min-width: 300px;
 }
 
+#navbar-icon{
+  display: none;
+  position: relative;
+  justify-content: center;
+  align-items: flex-start;
+  width: 50px;
+  height: 100%;
+  cursor: pointer;
+}
+
+#navbar-icon > span{
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30px;
+  height: 3px;
+}
+
+#navbar-icon > span::before, #navbar-icon > span::after{
+  content: "";
+  position: absolute;
+  background-color: white;
+  width: 30px;
+  height: 3px;
+  top: 10px;
+}
+
+#navbar-icon > span::after{
+  bottom: 10px;
+  top: auto;
+}
+
 .navbar > a{
   color: white;
+  min-height: 16px;
 }
 
 .navbar > a:hover{
@@ -126,7 +162,7 @@ section{
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 20px 50px;
+  padding: 20px 2%;
 }
 
 #hero{
@@ -219,9 +255,10 @@ section{
 }
 
 .heroInfo > p{
-  width: 40ch;
+  min-width: 300px;
   color: rgb(238, 238, 238);
   font-size: 1.5em;
+  width: 80%;
   word-spacing: 6px;
   letter-spacing: 2px;
 }
@@ -232,6 +269,7 @@ section{
   color: var(--primary);
   padding: 10px 30px;
   width: 60%;
+  min-width: 300px;
   font-weight: 100 !important;
   text-align: center;
   font-weight: bold;
@@ -291,24 +329,15 @@ section{
 }
 
 .imgContainer{
+  align-items: center;
   position: relative;
-  min-width: 320px;
+  min-width: 300px;
   width: 50%;
   max-width: 500px;
   min-height: initial !important;
   justify-content: center !important;
   margin: 20px 0;
 }
-
-/* .imgContainer::before {
-  content: "";
-  width: 100%;
-  background-color: var(--secondary);
-  height: 50%;
-  position: absolute;
-  bottom: 0;
-  z-index: 0;
-} */
 
 .imgContainer > img {
   width: 90%;
@@ -320,7 +349,7 @@ section{
   display: flex;
   min-height: 90vh;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 #Quiensoy p{
@@ -411,7 +440,7 @@ section{
 /*-------------------------SERVICIOS-----------------------------------*/
 
 #Servicios {
-  min-height: 120vh;
+  min-height: 110vh;
   width: 100%;
   display: flex;
   justify-content: space-around;
@@ -458,7 +487,7 @@ section{
   height: 75vh;
   background-color: #333;
   padding: 0px 15px;
-  margin: 10px 0;
+  margin: 30px 0;
   position: relative;
   box-shadow: 0px 12px 30px 5px;
 }
@@ -663,8 +692,8 @@ section{
   background-color: #333;
   min-width: 300px;
   width: 25%;
-  max-width: 500px;
-  min-height: 400px;
+  max-width: 400px;
+  min-height: 500px;
   height: auto;
   max-height: 600px;
   display: flex;
@@ -962,8 +991,35 @@ footer .contacCont .contact:last-child{
 } */
 
 
-@media screen and (max-width: 450px){
-  #header-icon{
-    display: block;
+@media screen and (max-width: 650px){
+  #navbar-icon{
+    display: flex;
+  }
+
+  #navbar-icon:hover + .navbar{
+    transform: translateY(0)
+  }
+  
+  .navbarActive{
+    transform: translateY(0)
+  }
+
+  header > .navbar{
+    min-width: 10px;
+    width: auto;
+    min-height: 100px;
+    background-color: black;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-end;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    padding: 15px;
+    transition: .7s ease;
+    transform-origin: top;
+    transform: translateY(-150%);
+    z-index: -1;
   }
 }
