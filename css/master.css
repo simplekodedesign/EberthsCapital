@@ -20,7 +20,7 @@ html{
 }
 
 .bold{
-  color: var(--primary)
+  color: var(--primary) !important;
 }
 
 .title{
@@ -254,6 +254,7 @@ section{
 
 .heroTitle > h1 {
   font-size: 4em;
+  /* color: rgb(238, 238, 238); */
   letter-spacing: 13px;
   height: 70px;
 }
@@ -468,9 +469,11 @@ section{
 }
 
 .services-container > p {
-  width: 45ch;
-  color: white;
+  min-width: 300px;
+  width: 50%;
+  /* color: white; */
   margin: 20px 0;
+  font-size: 1.5em;
 } 
 
 .service {
