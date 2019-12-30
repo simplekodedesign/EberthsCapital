@@ -142,20 +142,24 @@ header > .navbar{
 .button{
   background-color: var(--primary);
   color: rgb(238, 238, 238);
+  border: 2px solid var(--primary);
   padding: 10px 30px;
   font-size: 2em;
-  border: 0;
   outline: 0;
   cursor: pointer;
   border-radius: 4px;
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   text-rendering: geometricPrecision;
+  transition: .5s;
+}
+
+.button:hover{
+  background-color: transparent;
+  border: 2px solid var(--primary);
 }
 
 section{
-  /* background-color: black; */
-  /* color: rgb(238, 238, 238); */
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -258,7 +262,8 @@ section{
   min-width: 300px;
   color: rgb(238, 238, 238);
   font-size: 1.5em;
-  width: 80%;
+  width: 100%;
+  max-width: 600px;
   word-spacing: 6px;
   letter-spacing: 2px;
 }
@@ -287,9 +292,6 @@ section{
   justify-content: center;
   align-items: center;
   width: 45%;
-  /* height: 95vh; */
-  /* transform-style: preserve-3d; */
-  /* transform: rotateY(45deg); */
   position: relative;
 }
 
@@ -311,15 +313,6 @@ section{
   border-radius: 50%;
   transition: .5s;
   z-index: -1;
-}
-
-.heroImg:hover .heroImg::after{
-  /* box-shadow: 0px 0px 50px 20px var(--primary); */
-  transform: rotateY(45deg);
-}
-
-.heroImg::hover img {
-  transform: rotateY(45deg);
 }
 
 /*---------------------Quien soy-----------------------------*/
@@ -437,7 +430,7 @@ section{
   z-index: 1;
 }
 
-/*-------------------------SERVICIOS-----------------------------------*/
+/*--------------------------SERVICIOS------------------------------*/
 
 #Servicios {
   min-height: 110vh;
@@ -826,10 +819,10 @@ footer .contacCont{
   display: flex;
   font-style: normal;
   justify-content: space-around;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   min-width: 300px;
   padding-left: 10px;
-  height: 100%;
+  min-height: 350px;
 }
 
 footer a{
@@ -938,58 +931,10 @@ footer .contacCont .contact:last-child{
   height: 70%;
 }
 
-/*
-.iconRS span {
-  background-color: var(--primary);
-  border-radius: 25px;
-  position: absolute;
-  transition: 0.5s ease;
+.iconRS > a {
+  width: 100%;
+  height: 100%;
 }
-
-.iconRS span:nth-child(even) {
-  height: 2px;
-  transform: scale(1, 1);
-  width: 60px;
-}
-
-.iconRS span:nth-child(odd) {
-  height: 60px;
-  transform: scale(1, 0);
-  width: 2px;
-}
-
-.iconRS:hover span:nth-child(even) {
-  transform: scale(0, 1);
-}
-
-.iconRS:hover span:nth-child(odd) {
-    transform: scale(1, 1);
-}
-
-.iconRS .border_bottom {
-    bottom: 0px;
-    left: 0px;
-    transform-origin: left;
-}
-
-.iconRS .border_top {
-    left: 0px;
-    top: 0px;
-    transform-origin: right;
-}
-
-.iconRS .border_right {
-    right: 0px;
-    top: 0px;
-    transform-origin: top;
-}
-
-.iconRS .border_left {
-    left: 0px;
-    top: 0px;
-    transform-origin: bottom;
-} */
-
 
 @media screen and (max-width: 650px){
   #navbar-icon{
