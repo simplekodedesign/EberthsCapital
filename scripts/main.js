@@ -127,7 +127,7 @@ function submitForm (e) {
     }
   }
 
-  xhttp.open("POST", "./mailer/mail.php", true)
+  xhttp.open("POST", "./mailerphp/mail.php", true)
   xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhttp.send("name=" + name.value + "&email=" + email.value + "&message=" + message.value);
 }
