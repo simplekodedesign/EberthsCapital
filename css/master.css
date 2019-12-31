@@ -681,16 +681,20 @@ section{
 }
 
 .member > .bio{
-  color: white;
+  color: black;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
+  transition: .5s ease-in-out;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background-color: white;
+  opacity: 0;
 }
 
 /*---------------FOOTER----------------*/

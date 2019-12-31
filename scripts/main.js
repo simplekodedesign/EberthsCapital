@@ -17,7 +17,7 @@ var email = document.getElementById("emailForm")
 var nameToContact = document.getElementById("nameForm")
 var message = document.getElementById("message")
 var submitButton = document.getElementById("submitButton")
-const biography = document.getElementsByClassName("biography")
+var biography = document.getElementsByClassName("biography")
 var velas
 var svg
 
@@ -102,7 +102,19 @@ const animateHeader = () => {
 }
 
 function bio(){
+  let biography = this.parentElement.getElementsByClassName("bio")[0]
+  let exitButton = this.parentElement.getElementsByClassName("exitButton")[0]
+  console.log(biography);  
+  biography.style.setProperty("opacity", "1")
+  biography.style.setProperty("z-index", "2")
+  exitButton.addEventListener("click", exitBio)
   console.log(this.parentElement)
+}
+
+function exitBio () {
+  let biography = this.parentElement
+  biography.style.setProperty("opacity", "0")
+  biography.style.setProperty("z-index", "-1")
 }
 
 function displayService () {

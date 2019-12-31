@@ -175,6 +175,7 @@
         <h2 class="bold">Analista</h2>
         <button class="button biography">Ver biografía</button>
         <div class="bio">
+          <div class="exitButton">Click me</div>
           <p>
             Emprendedor, venezolano con 18 años de edad.  Conocí el mundo del traiding hace 1 año y desde ahí despertó
             en mí el interés por los mercados financieros y lo beneficioso que es para alcanzar el éxito. </br>
