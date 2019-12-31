@@ -229,7 +229,7 @@
         </div>
       </address>
   
-      <form class="myAnimatable contactForm" my-animation="clipShake center x">
+      <form class="myAnimatable contactForm" my-animation="clipShake center x" id="contactForm">
         <h2>Enviame un mensaje:</h2>
         <div>
           <input type="text" id="emailForm" placeholder="Tu email *" required name="email">

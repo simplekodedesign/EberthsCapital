@@ -12,6 +12,7 @@ const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
 const headerButton = document.getElementById("navbar-icon")
+var contactForm = document.getElementById("contactForm")
 var email = document.getElementById("emailForm")
 var nameToContact = document.getElementById("nameForm")
 var message = document.getElementById("message")
@@ -125,6 +126,10 @@ function submitForm (e) {
       alert("Correo enviado con éxito")
       clearForm()
       submitButton.removeEventListener("click", submitForm)
+      contactForm.style.setProperty("opacity", "0")
+      setTimeout(() => {
+        contactForm.style.setProperty("display", "none")
+      }, 500)
     }
   }
 
