@@ -3,14 +3,14 @@
     error_reporting( E_ALL );
     $from = "contact@eberthscapital.com";
     $to = "danielgaiden@gmail.com";
-    $subject = "Checking PHP mail";
-    $message = "PHP mail works just fine";
+    $subject = $_POST["name"] . " wants to talk";
+    $message = $_POST["message"];
     $headers = "From:" . $from . "\r\n";
-    $headers .= 'Reply-To: diegosalazargm@gmail.com' . "\r\n";
+    $headers .= 'Reply-To:' . $_POST["email"] . "\r\n";
     mail($to,$subject,$message, $headers);
     
     echo "
     <script>
       window.location='/'
-    </script>"
+    </script>";
 ?>

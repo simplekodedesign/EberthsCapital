@@ -12,10 +12,15 @@ const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
 const headerButton = document.getElementById("navbar-icon")
+const email = document.getElementById("email")
+const name = document.getElementById("name")
+const message = document.getElementById("message")
+var submitButton = document.getElementById("submitButton")
 var velas
 var svg
 
 window.addEventListener("load", function () {
+  submitButton.addEventListener("click", submitForm)
   const SERVICES_LENGTH = services_buttons.length
 
   window.addEventListener("scroll", animateHeader)
@@ -77,7 +82,6 @@ function show(display, who){
 function svgAnimate(svgDocument){
   let svg = svgDocument.contentDocument
   velas = svg.getElementsByClassName("element")
-  console.log(svgDocument.getBoundingClientRect().top)
   if(svgDocument.getBoundingClientRect().top < 600) {
 		for(element of velas){
 			element.classList.add("animate")
@@ -85,7 +89,7 @@ function svgAnimate(svgDocument){
   }
 }
     
-var animateHeader = () => {
+const animateHeader = () => {
   if (window.scrollY > 0) {
     header.classList.add("headerScrolled");
   } else {
@@ -110,4 +114,26 @@ function unDisplayService () {
     this.parentElement.style.setProperty("display", "none")
   }, 500);
   body.style.setProperty("overflow", "auto")
+}
+
+function submitForm (e) {
+  e.preventDefault()
+  let xhttp = new XMLHttpRequest()
+
+  xhttp.onreadystatechange = () => {
+    if (this.readyState == 4 && this.status == 200) {
+      alert("Correo enviado con éxito")
+      clearForm()
+    }
+  }
+
+  xhttp.open("POST", "./mailer/mail.php", true)
+  xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  xhttp.send("name=" + name.value + "&email=" + email.value + "&message=" + message.value);
+}
+
+function clearForm () {
+  name.value = ""
+  email.value = ""
+  message = ""
 }

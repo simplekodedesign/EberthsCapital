@@ -227,13 +227,14 @@
         <h2>Enviame un mensaje:</h2>
         <div>
           <input type="text" id="email" placeholder="Tu email *" required name="email">
-          <input type="text" placeholder="Dime tu nombre" id="name">
+          <input type="text" placeholder="Dime tu nombre" id="name" required name="name">
         </div>
         <div>
           <!-- <label for="message"></label> -->
-          <textarea name="Message" placeholder="Contáctame *" id="message" required></textarea>
+          <textarea name="message" placeholder="Contáctame *" id="message" required></textarea>
         </div>
-        <button class="button">Envíar</button>
+        <!-- <button class="button">Envíar</button> -->
+        <input type="submit" value="Enviar" class="button" id="submitButton">
       </form>
     </footer>
 
