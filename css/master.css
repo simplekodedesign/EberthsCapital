@@ -739,6 +739,7 @@ footer > .contactForm{
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
+  transition: .5s ease-in-out;
 }
 
 .contactForm > div {

@@ -1,3 +1,7 @@
+<?php
+  $randq = rand()
+?>
+
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
@@ -6,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ECapital | Interbank Trader & Investor</title>
     <link rel="SHORTCUT ICON" href="img/favicon32.ico">
-    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="css/master.css?q=<?php echo $randq;?>">
     <link rel="stylesheet" href="./ElementsScrollAnimation/ElementsScrollAnimation.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" rel="stylesheet">
   </head>
@@ -217,21 +221,22 @@
         </div>
       </address>
   
-      <form class="myAnimatable contactForm" my-animation="clipShake center x" action="./mailerphp/mail.php" method="POST">
+      <form class="myAnimatable contactForm" my-animation="clipShake center x" id="contactForm">
         <h2>Enviame un mensaje:</h2>
         <div>
-          <input type="text" id="email" placeholder="Tu email *" required name="email">
-          <input type="text" placeholder="Dime tu nombre" id="name">
+          <input type="text" id="emailForm" placeholder="Tu email *" required name="email">
+          <input type="text" placeholder="Dime tu nombre" id="nameForm" required name="name">
         </div>
         <div>
           <!-- <label for="message"></label> -->
-          <textarea name="Message" placeholder="Contáctame *" id="message" required></textarea>
+          <textarea name="message" placeholder="Contáctame *" id="message" required></textarea>
         </div>
-        <button class="button">Envíar</button>
+        <!-- <button class="button">Envíar</button> -->
+        <input type="submit" value="Enviar" class="button" id="submitButton">
       </form>
     </footer>
 
-    <script type="text/javascript" src="./scripts/main.js"></script>
+    <script type="text/javascript" src="./scripts/main.js?q=<?php echo $randq;?>"></script>
     <script type="text/javascript" src="./ElementsScrollAnimation/ElementsScrollAnimation.js"></script>
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
