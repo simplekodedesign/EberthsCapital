@@ -12,8 +12,8 @@ const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
 const headerButton = document.getElementById("navbar-icon")
-var email = document.getElementById("email")
-var name = document.getElementById("name")
+var email = document.getElementById("emailForm")
+var nameToContact = document.getElementById("nameForm")
 var message = document.getElementById("message")
 var submitButton = document.getElementById("submitButton")
 var velas
@@ -124,16 +124,17 @@ function submitForm (e) {
     if (this.readyState == 4 && this.status == 200) {
       alert("Correo enviado con éxito")
       clearForm()
+      submitButton.removeEventListener("click", submitForm)
     }
   }
 
   xhttp.open("POST", "./mailerphp/mail.php", true)
   xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-  xhttp.send("name=" + name.value + "&email=" + email.value + "&message=" + message.value);
+  xhttp.send("name=" + nameToContact.value + "&email=" + email.value + "&message=" + message.value);
 }
 
 function clearForm () {
-  name.value = ""
+  nameToContact.value = ""
   email.value = ""
-  message = ""
+  message.value = ""
 }

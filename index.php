@@ -232,8 +232,8 @@
       <form class="myAnimatable contactForm" my-animation="clipShake center x">
         <h2>Enviame un mensaje:</h2>
         <div>
-          <input type="text" id="email" placeholder="Tu email *" required name="email">
-          <input type="text" placeholder="Dime tu nombre" id="name" required name="name">
+          <input type="text" id="emailForm" placeholder="Tu email *" required name="email">
+          <input type="text" placeholder="Dime tu nombre" id="nameForm" required name="name">
         </div>
         <div>
           <!-- <label for="message"></label> -->
