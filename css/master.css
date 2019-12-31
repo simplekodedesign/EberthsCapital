@@ -468,6 +468,10 @@ section{
   width: 100%;
 }
 
+#ServiceText{
+  width: 50%;
+}
+
 .services-container > p {
   min-width: 300px;
   width: 50%;
