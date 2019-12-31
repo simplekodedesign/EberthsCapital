@@ -12,6 +12,7 @@ const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
 const headerButton = document.getElementById("navbar-icon")
+const biography = document.getElementsByClassName("biography")
 var velas
 var svg
 
@@ -24,8 +25,6 @@ window.addEventListener("load", function () {
     services_buttons[i].addEventListener("click", displayService)
     backButtons[i].addEventListener("click", unDisplayService)
   }
-
-  // headerButton.addEventListener("click", )
 
   svg = document.getElementsByTagName("object")
 
@@ -65,6 +64,10 @@ window.addEventListener("load", function () {
     }
     this.classList.add("active")
    })
+
+   for(element of biography){
+      element.addEventListener("click", bio)
+   }
 })
 
 function show(display, who){
@@ -93,6 +96,9 @@ var animateHeader = () => {
   }
 }
 
+function bio(){
+  console.log(this.parentElement)
+}
 
 function displayService () {
   const serviceToDisplay = this.getAttribute("service")
