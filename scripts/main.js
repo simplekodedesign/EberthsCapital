@@ -12,9 +12,9 @@ const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
 const headerButton = document.getElementById("navbar-icon")
-const email = document.getElementById("email")
-const name = document.getElementById("name")
-const message = document.getElementById("message")
+var email = document.getElementById("email")
+var name = document.getElementById("name")
+var message = document.getElementById("message")
 var submitButton = document.getElementById("submitButton")
 var velas
 var svg
