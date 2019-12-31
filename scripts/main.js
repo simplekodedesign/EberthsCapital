@@ -120,7 +120,7 @@ function submitForm (e) {
   e.preventDefault()
   let xhttp = new XMLHttpRequest()
 
-  xhttp.onreadystatechange = () => {
+  xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
       alert("Correo enviado con éxito")
       clearForm()
