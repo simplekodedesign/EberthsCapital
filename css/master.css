@@ -224,12 +224,13 @@ section{
 .heroInfo{
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   width: 45%;
-  min-width: 320px;
-  min-height: 500px;
+  min-width: 300px;
+  min-height: 600px;
   height: 90%;
   max-height: 900px;
+  margin-top: 50px;
 }
 
 .heroTitle{
@@ -244,7 +245,7 @@ section{
   border-radius: 12px;
   position: absolute;
 
-  bottom: -10%;
+  bottom: 5%;
   left: 0;
 }
 
@@ -253,6 +254,7 @@ section{
   color: rgb(238, 238, 238);
   min-height: 70px;
   letter-spacing: 3px;
+  margin-bottom: 30px;
 }
 
 /* .heroTitle > h1 {
@@ -283,6 +285,7 @@ section{
   text-align: center;
   font-weight: bold;
   transition: .5s ease;
+  margin: 20px 0;
 }
 
 .heroInfo > .button:hover{
@@ -820,7 +823,9 @@ footer {
 }
 
 footer > img{
+  min-width: 300px;
   width: 30%;
+  min-height: 200px;
   /* max-width: 300px;
   max-height: 200px; */
 }
@@ -983,5 +988,9 @@ footer .contacCont .contact:last-child{
     transform-origin: top;
     transform: translateY(-150%);
     z-index: -1;
+  }
+
+  .heroInfo {
+    align-items: center;
   }
 }
