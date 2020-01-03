@@ -1,4 +1,3 @@
-
 var body = document.getElementById("body")
 var pop_up = document.getElementById("popup-services")
 const services_buttons = document.getElementsByClassName("service-more")
@@ -50,15 +49,15 @@ window.addEventListener("load", function () {
     this.classList.add("active")
   })
 
-  sociosB.addEventListener("click", function (){
-    show(true, socios)
-    show(false, analistas)
-    show(false, inversores)
-    for(element of team){
-      element.classList.remove("active")
-    }
-    this.classList.add("active")
-   })
+  // sociosB.addEventListener("click", function (){
+  //   show(true, socios)
+  //   show(false, analistas)
+  //   show(false, inversores)
+  //   for(element of team){
+  //     element.classList.remove("active")
+  //   }
+  //   this.classList.add("active")
+  //  })
 
    analistasB.addEventListener("click", function (){
     show(false, socios)
@@ -104,11 +103,9 @@ const animateHeader = () => {
 function bio(){
   let biography = this.parentElement.getElementsByClassName("bio")[0]
   let exitButton = this.parentElement.getElementsByClassName("exitButton")[0]
-  console.log(biography);  
   biography.style.setProperty("opacity", "1")
   biography.style.setProperty("z-index", "2")
   exitButton.addEventListener("click", exitBio)
-  console.log(this.parentElement)
 }
 
 function exitBio () {
