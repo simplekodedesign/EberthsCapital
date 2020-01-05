@@ -230,7 +230,7 @@ section{
   min-height: 600px;
   height: 90%;
   max-height: 900px;
-  margin-top: 50px;
+  margin-top: 70px;
 }
 
 .heroTitle{
@@ -255,6 +255,10 @@ section{
   min-height: 70px;
   letter-spacing: 3px;
   margin-bottom: 30px;
+}
+
+#secondary{
+  font-size: .7em;
 }
 
 /* .heroTitle > h1 {
@@ -326,6 +330,12 @@ section{
 
 #Quiensoy{
   justify-content: space-around;
+  background-color: black;
+  color: white;
+}
+
+#Quiensoy > .title{
+  margin-top: 50px;
 }
 
 .imgContainer{
@@ -333,16 +343,17 @@ section{
   position: relative;
   min-width: 300px;
   width: 50%;
-  max-width: 500px;
+  max-width: 700px;
   min-height: initial !important;
   justify-content: center !important;
   margin: 20px 0;
 }
 
 .imgContainer > img {
-  width: 90%;
+  width: 100%;
   height: auto;
   position: relative;
+  border: 8px solid var(--primary);
 }
 
 #Quiensoy div{
@@ -352,13 +363,24 @@ section{
   justify-content: center;
 }
 
-#Quiensoy p{
+#Quiensoy .about{
   min-width: 300px;
   width: 100%;
   max-width: 40ch;
   font-size: 1.4em;
   letter-spacing: .5px;
   margin: 20px 0;
+  /* text-align: justify; */
+  text-align: center;
+}
+
+#phrase{
+  text-align: center;
+}
+
+#autor{
+  width: 100%;
+  text-align: center;
 }
 
 /*-------------------BENEFICIOS--------------------------*/
@@ -457,7 +479,8 @@ section{
 #Servicios::after{
   content: "";
   position: absolute;
-  background: radial-gradient(rgba(191, 138, 33, .8), rgba(191, 138, 33, .8)), url(../img/Servicios.jpg) center/cover no-repeat;
+  background: radial-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .5)), url(../img/Servicios.jpg) center/cover no-repeat;
+  /* rgba(191, 138, 33, .8) */
   top: 0;
   left: 0;
   right: 0;
@@ -487,7 +510,9 @@ section{
   width: 50%;
   margin: 20px 0;
   font-size: 1.6em;
-  color: white;
+  font-weight: bold;
+  color: black;
+  text-align: center;
 } 
 
 .service {
@@ -625,6 +650,8 @@ section{
   padding: 0;
   min-height: 125vh;
   height: auto;
+  /* background-color: black;
+  color: white; */
 }
 
 #Equipo > .title{  
@@ -727,7 +754,7 @@ section{
 }
 
 .member > .bio{
-  color: black;
+  color: white;
   width: 100%;
   display: flex;
   /* border-bottom: 6px solid var(--primary);
@@ -741,7 +768,7 @@ section{
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: white;
+  background-color: #333;
   opacity: 0;
 
   padding: 0 15px;
