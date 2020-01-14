@@ -1,1517 +1,1522 @@
 #redirecciones al sitio en inglés
-#To do
-
+#Todo
 
 AddDefaultCharset utf-8
 
+#Modificando caches para que duren 1 año 60*60*24*365= 31536000
+FileETag MTime Size
+ExpiresActive on
+ExpiresDefault "access plus 31536000 seconds"
 
-#Bloqueo de Bots
-033nachtvandeliteratuur.nl
-03e.info
-03p.info
-0n-line.tv
-1-99seo.com
-1-best-seo.com
-1-free-share-buttons.com
-100-reasons-for-seo.com
-100dollars-seo.com
-100searchengines.com
-12-reasons-for-seo.net
-12masterov.com
-12u.info
-15-reasons-for-seo.com
-1kreditzaim.ru
-1pamm.ru
-1st-urist.ru
-1webmaster.ml
-2-best-seo.com
-2-easy.xyz
-2-go-now.xyz
-24h.doctor
-24x7-server-support.site
-2your.site
-3-best-seo.com
-3-letter-domains.net
-3waynetworks.com
-4-best-seo.com
-4inn.ru
-4istoshop.com
-4webmasters.org
-5-best-seo.com
-5-steps-to-start-business.com
-5elementov.ru
-5forex.ru
-6-best-seo.com
-6hopping.com
-7-best-seo.com
-7kop.ru
-7makemoneyonline.com
-7zap.com
-8-best-seo.com
-8xv8.com
-9-best-seo.com
-99-reasons-for-seo.com
-a-elita.in.ua
-abcdefh.xyz
-abcdeg.xyz
-abclauncher.com
-acads.net
-acarreo.ru
-account-my1.xyz
-actualremont.ru
-acunetix-referrer.com
-adanih.com
-adcash.com
-adf.ly
-adspart.com
-adtiger.tk
-adventureparkcostarica.com
-adviceforum.info
-advokateg.xyz
-aerodizain.com
-aerotour.ru
-affordablewebsitesandmobileapps.com
-afora.ru
-agro-gid.com
-ai-seo-services.com
-aibolita.com
-aidarmebel.kz
-aitiman.ae
-akuhni.by
-albuteroli.com
-alcobutik24.com
-alexsander.ch
-alfabot.xyz
-alibestsale.com
-aliexsale.ru
-alinabaniecka.pl
-alkanfarma.org
-all-news.kz
-allcryptonews.com
-allergick.com
-allergija.com
-allknow.info
-allmarketsnewdayli.gdn
-allnews.md
-allnews24.in
-allvacancy.ru
-allwomen.info
-allwrighter.ru
-alp-rk.ru
-alphaopt24.ru
-alpharma.net
-altermix.ua
-amazon-seo-service.com
-amos-kids.ru
-amt-k.ru
-amtel-vredestein.com
-amylynnandrews.xyz
-anabolics.shop
-anal-acrobats.hol.es
-analytics-ads.xyz
-anapa-inns.ru
-android-style.com
-animalphotos.xyz
-animenime.ru
-annaeydlish.top
-anticrawler.org
-antiguabarbuda.ru
-antonovich-design.com.ua
-applepharma.ru
-apteka-doc.ru
-apteka-pharm.ru
-arabic-poetry.com
-arendadogovor.ru
-arendakvartir.kz
-arendovalka.xyz
-argo-visa.ru
-arkkivoltti.net
-artblog.top
-artclipart.ru
-artdeko.info
-artpaint-market.ru
-artparquet.ru
-artpress.top
-arturs.moscow
-aruplighting.com
-ask-yug.com
-asupro.com
-atleticpharm.org
-atyks.ru
-auto-b2b-seo-service.com
-auto-complex.by
-auto-kia-fulldrive.ru
-auto-seo-service.org
-autoblog.org.ua
-autofuct.ru
-automobile-spec.com
-autoseo-service.org
-autoseo-traffic.com
-autoseotips.com
-autoservic.by
-autovideobroadcast.com
-avcoast.com
-aviaseller.su
-aviva-limoux.com
-avkzarabotok.info
-avtointeres.ru
-avtorskoe-vino.ru
-avtovykup.kz
-aworlds.com
-axcus.top
-azartclub.org
-azbukafree.com
-azlex.uz
-backlinks-fast-top.com
-baixar-musicas-gratis.com
-baladur.ru
-balayazh.com
-balitouroffice.com
-balkanfarma.org
-barbarahome.top
-bard-real.com.ua
-batut-fun.ru
-bavariagid.de
-beachtoday.ru
-beauty-lesson.com
-beclean-nn.ru
-bedroomlighting.us
-belreferatov.net
-beremenyashka.com
-best-deal-hdd.pro
-best-mam.ru
-best-ping-service-usa.blue
-best-printmsk.ru
-best-seo-offer.com
-best-seo-software.xyz
-best-seo-solution.com
-bestbookclub.ru
-bestfortraders.com
-bestmobilityscooterstoday.com
-bestofferhddbyt.info
-bestofferhddeed.info
-bestwebsitesawards.com
-betterhealthbeauty.com
-bettorschool.ru
-bez-zabora.ru
-bezprostatita.com
-bif-ru.info
-biglistofwebsites.com
-billiard-classic.com.ua
-billyblog.online
-bin-brokers.com
-binokna.ru
-bio-market.kz
-biplanecentre.ru
-bird1.ru
-bitcoin-ua.top
-biteg.xyz
-biz-law.ru
-bizru.info
-bki24.info
-black-friday.ga
-blackhatworth.com
-blog100.org
-blog2019.top
-blog2019.xyz
-blog4u.top
-blogseo.xyz
-blogstar.fun
-blogtotal.de
-blogua.org
-blue-square.biz
-bluerobot.info
-bo-vtb24.ru
-boltalko.xyz
-boltushkiclub.ru
-bonkers.name
-bonus-spasibo-sberbank.ru
-bonus-vtb.ru
-boostmyppc.com
-bpro1.top
-brakehawk.com
-brateg.xyz
-brauni.com.ua
-bravica.biz
-bravica.com
-bravica.me
-bravica.net
-bravica.news
-bravica.online
-bravica.pro
-bravica.ru
-bravica.su
-break-the-chains.com
-brickmaster.pro
-brillianty.info
-brk-rti.ru
-brothers-smaller.ru
-brusilov.ru
-bsell.ru
-budilneg.xyz
-budmavtomatika.com.ua
-bufetout.ru
-buhproffi.ru
-buildnw.ru
-buildwithwendy.com
-buketeg.xyz
-bukleteg.xyz
-bulgaria-web-developers.com
-bur-rk.ru
-burger-imperia.com
-burn-fat.ga
-business-online-sberbank.ru
-buttons-for-website.com
-buttons-for-your-website.com
-buy-cheap-online.info
-buy-cheap-pills-order-online.com
-buy-forum.ru
-buy-meds24.com
-buynorxx.com
-buypillsonline24h.com
-buypuppies.ca
-call-of-duty.info
-cardiosport.com.ua
-carezi.com
-carivka.com.ua
-carscrim.com
-cartechnic.ru
-catterybengal.com
-cattyhealth.com
-cenokos.ru
-cenoval.ru
-cezartabac.ro
-chainii.ru
-chatroulette.life
-chcu.net
-cheap-trusted-backlinks.com
-cheappills24h.com
-chelyabinsk.dienai.ru
-chinese-amezon.com
-chizhik-2.ru
-ci.ua
-cityadspix.com
-citybur.ru
-cityreys.ru
-civilwartheater.com
-cleaningservices.kiev.ua
-clicksor.com
-climate.by
-clothing-deal.club
-club-lukojl.ru
-coderstate.com
-codysbbq.com
-coffeemashiny.ru
-columb.net.ua
-commerage.ru
-comp-pomosch.ru
-compliance-alex.xyz
-compliance-alexa.xyz
-compliance-andrew.xyz
-compliance-barak.xyz
-compliance-brian.xyz
-compliance-don.xyz
-compliance-donald.xyz
-compliance-elena.xyz
-compliance-fred.xyz
-compliance-george.xyz
-compliance-irvin.xyz
-compliance-ivan.xyz
-compliance-john.top
-compliance-julianna.top
-computer-remont.ru
-conciergegroup.org
-concretepol.com
-connectikastudio.com
-cookie-law-enforcement-aa.xyz
-cookie-law-enforcement-bb.xyz
-cookie-law-enforcement-cc.xyz
-cookie-law-enforcement-dd.xyz
-cookie-law-enforcement-ee.xyz
-cookie-law-enforcement-ff.xyz
-cookie-law-enforcement-gg.xyz
-cookie-law-enforcement-hh.xyz
-cookie-law-enforcement-ii.xyz
-cookie-law-enforcement-jj.xyz
-cookie-law-enforcement-kk.xyz
-cookie-law-enforcement-ll.xyz
-cookie-law-enforcement-mm.xyz
-cookie-law-enforcement-nn.xyz
-cookie-law-enforcement-oo.xyz
-cookie-law-enforcement-pp.xyz
-cookie-law-enforcement-qq.xyz
-cookie-law-enforcement-rr.xyz
-cookie-law-enforcement-ss.xyz
-cookie-law-enforcement-tt.xyz
-cookie-law-enforcement-uu.xyz
-cookie-law-enforcement-vv.xyz
-cookie-law-enforcement-ww.xyz
-cookie-law-enforcement-xx.xyz
-cookie-law-enforcement-yy.xyz
-cookie-law-enforcement-zz.xyz
-copyrightclaims.org
-copyrightinstitute.org
-cosmediqueresults.com
-covadhosting.biz
-coverage-my.com
-cp24.com.ua
-credit-card-tinkoff.ru
-credit.co.ua
-customsua.com.ua
-cyber-monday.ga
-dacha-svoimi-rukami.com
-dailyrank.net
-dailyseo.xyz
-darleneblog.online
-darodar.com
-dawlenie.com
-dbutton.net
-dcdcapital.com
-deart-13.ru
-delfin-aqua.com.ua
-deluxewatch.su
-demenageur.com
-dengi-v-kredit.in.ua
-dent-home.ru
-dentuled.net
-dermatovenerologiya.com
-descargar-musica-gratis.net
-detailedvideos.com
-detskie-konstruktory.ru
-deutsche-poesie.com
-dev-seo.blog
-diatelier.ru
-dicru.info
-dienai.ru
-diplomas-ru.com
-dipstar.org
-discounttaxi.kz
-distonija.com
-divan-dekor.com.ua
-dividendo.ru
-djekxa.ru
-djonwatch.ru
-dktr.ru
-dna-sklad.ru
-dnmetall.ru
-docs4all.com
-docsarchive.net
-docsportal.net
-doctornadezhda.ru
-documentbase.net
-documentserver.net
-documentsite.net
-dodge-forum.eu
-doggyhealthy.com
-dogovorpodryada.ru
-dogsrun.net
-dojki-devki.ru
-dojki-hd.com
-dom-international.ru
-domain-tracker.com
-domashniy-hotel.ru
-domashniy-recepti.ru
-dominateforex.ml
-domination.ml
-dommdom.com
-domovozik.ru
-dompechey.by
-domsadiogorod.ru
-doska-vsem.ru
-dostavka-v-krym.com
-dosugrostov.site
-doxyporno.com
-doxysexy.com
-draniki.org
-drev.biz
-drugs-no-rx.info
-drugstoreforyou.com
-drupa.com
-dspautomations.com
-dvk-stroi.ru
-dvr.biz.ua
-e-buyeasy.com
-e-commerce-seo.com
-e-commerce-seo1.com
-e-stroymart.kz
-eaptekaplus.ru
-earn-from-articles.com
-earnian-money.info
-easycommerce.cf
-ecblog.xyz
-ecommerce-seo.org
-ecomp3.ru
-econom.co
-edakgfvwql.ru
-edmed-sonline.com
-educhess.ru
-edudocs.net
-eduinfosite.com
-eduserver.net
-ege-essay.ru
-ege-krasnoyarsk.ru
-egovaleo.it
-ek-invest.ru
-ekatalog.xyz
-eko-gazon.ru
-ekoproekt-kr.ru
-ekto.ee
-electric-blue-industries.com
-elegante-vitrage.ru
-elektrikovich.ru
-elementspluss.ru
-elentur.com.ua
-ellemarket.com
-elmifarhangi.com
-elvel.com.ua
-emctestlab.ru
-emerson-rus.ru
-energomash.net
-englishtopic.ru
-enter-unicredit.ru
-epicdiving.com
-eraglass.com
-eric-artem.com
-eropho.com
-erot.co
-es-pfrf.ru
-escort-russian.com
-eskei83.com
-este-line.com.ua
-etairikavideo.gr
-etehnika.com.ua
-etotupo.ru
-ets-2-mod.ru
-eu-cookie-law-enforcement2.xyz
-eurocredit.xyz
-euromasterclass.ru
-europages.com.ru
-eurosamodelki.ru
-event-tracking.com
-eventiyahall.ru
-exdocsfiles.com
-expediacustomerservicenumber.online
-expert-find.ru
-express-vyvoz.ru
-eyes-on-you.ga
-f1nder.org
-fainaidea.com
-fanoboi.com
-fartunabest.ru
-fashiong.ru
-fast-wordpress-start.com
-fazika.ru
-fbdownloader.com
-feminist.org.ua
-fialka.tomsk.ru
-fidalsa.de
-filesclub.net
-filesdatabase.net
-films2018.com
-filter-ot-zheleza.ru
-financial-simulation.com
-finansov.info
-finder.cool
-findercarphotos.com
-fix-website-errors.com
-flexderek.com
-floating-share-buttons.com
-flowertherapy.ru
-flyblog.xyz
-for-marketersy.info
-for-your.website
-forex-procto.ru
-forsex.info
-fortwosmartcar.pw
-forum69.info
-foxweber.com
-francaise-poesie.com
-frauplus.ru
-free-fb-traffic.com
-free-fbook-traffic.com
-free-floating-buttons.com
-free-share-buttons.com
-free-social-buttons.com
-free-social-buttons.xyz
-free-social-buttons7.xyz
-free-traffic.xyz
-free-video-tool.com
-free-website-traffic.com
-freenode.info
-freewhatsappload.com
-freewlan.info
-freshnails.com.ua
-fsalas.com
-galblog.top
-game300.ru
-gandikapper.ru
-gatwick.ru
-gazel-72.ru
-gbh-invest.ru
-gearcraft.us
-gearsadspromo.club
-gelstate.ru
-generalporn.org
-georgeblog.online
-gepatit-info.top
-germes-trans.com
-get-clickize.info
-get-free-social-traffic.com
-get-free-traffic-now.com
-get-more-freeer-visitors.info
-get-more-freeish-visitors.info
-get-seo-help.com
-get-your-social-buttons.info
-getaadsincome.info
-getadsincomely.info
-getfy-click.info
-getlamborghini.ga
-getpy-click.info
-getrichquick.ml
-getrichquickly.info
-gezlev.com.ua
-ghazel.ru
-ghostvisitor.com
-gidonline.one
-giftbig.ru
-girlporn.ru
-gkvector.ru
-glavprofit.ru
-global-smm.ru
-gobongo.info
-good-potolok.ru
-goodbyecellulite.ru
-goodhumor24.com
-goodprotein.ru
-google-liar.ru
-googlemare.com
-googlsucks.com
-gorgaz.info
-grafaman.ru
-greatblog.top
-groshi-kredut.com.ua
-growth-hackingan.info
-growth-hackingor.info
-growth-hackingy.info
-gruzchiki24.ru
-guardlink.org
-guidetopetersburg.com
-halefa.com
-handicapvantoday.com
-hankspring.xyz
-happysong.ru
-hard-porn.mobi
-havepussy.com
-hawaiisurf.com
-hdmoviecamera.net
-hdmoviecams.com
-headpharmacy.com
-healbio.ru
-healgastro.com
-hentai-manga.porn
-hit-kino.ru
-holiday-shop.ru
-holistickenko.com
-holodkovich.com
-homeafrikalike.tk
-homemypicture.tk
-hongfanji.com
-hosting-tracker.com
-hottour.com
-housedesigning.ru
-housediz.com
-housemilan.ru
-howopen.ru
-howtostopreferralspam.eu
-hoztorg-opt.ru
-hseipaa.kz
-hulfingtonpost.com
-humanorightswatch.org
-hundejo.com
-huntdown.info
-hvd-store.com
-hydra-2019.ru
-hydra2.market
-hyip-zanoza.me
-i-spare.ru
-ib-homecredit.ru
-ib-rencredit.ru
-ico.re
-igadgetsworld.com
-igru-xbox.net
-ilikevitaly.com
-iloveitaly.ro
-iloveitaly.ru
-ilovevitaly.co
-ilovevitaly.com
-ilovevitaly.info
-ilovevitaly.org
-ilovevitaly.ru
-ilovevitaly.xyz
-iminent.com
-imperiafilm.ru
-impotentik.com
-in-sto.ru
-incanto.in.ua
-incitystroy.ru
-incomekey.net
-increasewwwtraffic.info
-inet-shop.su
-infektsii.com
-infodocsportal.com
-infogame.name
-inform-ua.info
-inmoll.com
-insider.pro
-insultu-net.ru
-interferencer.ru
-intex-air.ru
-investpamm.ru
-iskalko.ru
-iskussnica.ru
-isotoner.com
-ispaniya-costa-blanca.ru
-it-max.com.ua
-izhstrelok.ru
-jav-fetish.com
-jav-fetish.site
-javcoast.com
-javlibrary.cc
-jeffbullas.xyz
-jjbabskoe.ru
-jobius.com.ua
-josephineblog.top
-jumkite.com
-justkillingti.me
-justprofit.xyz
-kabbalah-red-bracelets.com
-kabinet-5ka.ru
-kabinet-alfaclick.ru
-kabinet-binbank.ru
-kabinet-card-5ka.ru
-kabinet-click-alfabank.ru
-kabinet-esia-gosuslugi.ru
-kabinet-faberlic.ru
-kabinet-gosuslugi.ru
-kabinet-ipoteka-domclick.ru
-kabinet-karta-5ka.ru
-kabinet-lk-megafon.ru
-kabinet-lk-rt.ru
-kabinet-login-mts.ru
-kabinet-mil.ru
-kabinet-mos.ru
-kabinet-my-beeline.ru
-kabinet-my-pochtabank.ru
-kabinet-nalog.ru
-kabinet-online-bm.ru
-kabinet-online-open.ru
-kabinet-online-rsb.ru
-kabinet-online-rshb.ru
-kabinet-online-sberbank.ru
-kabinet-online-sovcombank.ru
-kabinet-online-vtb.ru
-kabinet-pfr.ru
-kabinet-pfrf.ru
-kabinet-platon.ru
-kabinet-qiwi.ru
-kabinet-tele2.ru
-kabinet-tinkoff.ru
-kabinet-tricolor.ru
-kabinet-ttk.ru
-kabinet-vtb24.ru
-kakablog.net
-kakadu-interior.com.ua
-kambasoft.com
-kamin-sam.ru
-karapuz.org.ua
-kazka.ru
-kazlenta.kz
-kazrent.com
-kerch.site
-kevblog.top
-keywords-monitoring-success.com
-keywords-monitoring-your-success.com
-kharkov.ua
-kierowca-praca.pl
-kino-fun.ru
-kino-key.info
-kino2018.cc
-kinobum.org
-kinopolet.net
-kinosed.net
-kinostar.online
-knigonosha.net
-kollekcioner.ru
-komp-pomosch.ru
-komputers-best.ru
-komukc.com.ua
-konkursov.net
-kozhakoshek.com
-kozhasobak.com
-kozhniebolezni.com
-krasivoe-hd.net
-krasnodar-avtolombard.ru
-krasota-zdorovie.pw
-krasota.ru
-kredutu.com.ua
-kredytbank.com.ua
-kruiz-sochi.ru
-krumble-adsde.info
-krumble-adsen.info
-krumbleent-ads.info
-lakiikraski.ru
-lalalove.ru
-laminat.com.ua
-landliver.org
-landoftracking.com
-laptop-4-less.com
-law-check-two.xyz
-law-enforcement-bot-ff.xyz
-law-enforcement-check-three.xyz
-law-enforcement-ee.xyz
-law-six.xyz
-lawrenceblog.online
-laxdrills.com
-leboard.ru
-ledalfa.by
-ledx.by
-leeboyrussia.com
-legalrc.biz
-lerporn.info
-leto-dacha.ru
-lider82.ru
-lifespeaker.ru
-lipidofobia.com.br
-littleberry.ru
-livefixer.com
-livejournal.top
-livia-pache.ru
-livingroomdecoratingideas.website
-lk-gosuslugi.ru
-lk-lk-rt.ru
-local-seo-for-multiple-locations.com
-login-tinkoff.ru
-logo-all.ru
-lotoflotto.ru
-loveorganic.ch
-lowpricesiterx.com
-lsex.xyz
-luckybull.io
-lukoilcard.ru
-lumb.co
-luton-invest.ru
-luxup.ru
-magicart.store
-magicdiet.gq
-magnetic-bracelets.ru
-mainhunter.com
-makemoneyonline.com
-makeprogress.ga
-makler.org.ua
-mamylik.ru
-manimpotence.com
-manualterap.roleforum.ru
-marblestyle.ru
-maridan.com.ua
-marinetraffic.com
-marjorieblog.online
-marketland.ml
-masterseek.com
-matomete.net
-matras.space
-mattgibson.us
-max-apprais.com
-maxxximoda.ru
-mebel-arts.com
-mebel-ekb.com
-mebel-iz-dereva.kiev.ua
-mebelcomplekt.ru
-mebeldekor.com.ua
-med-dopomoga.com
-med-zdorovie.com.ua
-medbrowse.info
-medic-al.ru
-medicaltranslate.ru
-medicineseasybuy.com
-meds-online24.com
-meduza-consult.ru
-megalit-d.ru
-megapolis-96.ru
-meriton.ru
-metallo-konstruktsii.ru
-metallosajding.ru
-meteocast.net
-mhp.su
-mifepriston.net
-migronis.com
-mikozstop.com
-mikrocement.com.ua
-mikrozaim.site
-mikrozaym2you.ru
-minegam.com
-mirfairytale.ru
-mirobuvi.com.ua
-mirtorrent.net
-misselle.ru
-mksoap.ru
-mksport.ru
-mmdoors.ru
-mnogabukaff.net
-mobilemedia.md
-mockupui.com
-modforwot.ru
-modnie-futbolki.net
-moe1.ru
-moinozhki.com
-moisadogorod.ru
-monetizationking.net
-money-for-placing-articles.com
-money7777.info
-moneytop.ru
-moneyzzz.ru
-monicablog.xyz
-moonci.ru
-mosrif.ru
-mostcool.top
-mostorgnerud.ru
-moy-dokument.com
-moyakuhnia.ru
-moygorod-online.ru
-moyparnik.com
-mrbojikobi4.biz
-mtsguru.ru
-muscle-factory.com.ua
-musichallaudio.ru
-mwductwork.com
-mybuh.kz
-mycheaptraffic.com
-mydoctorok.ru
-myftpupload.com
-myplaycity.com
-mysexpics.ru
-nachalka21.ru
-nakozhe.com
-nanochskazki.ru
-narosty.com
-natali-forex.com
-natprof.ru
-naturalpharm.com.ua
-nbok.net
-needtosellmyhousefast.com
-net-profits.xyz
-nevapotolok.ru
-newsrosprom.ru
-newstaffadsshop.club
-nicola.top
-niki-mlt.ru
-nizniynovgorod.dienai.ru
-no-rx.info
-novosti-avto.ru
-novosti-hi-tech.ru
-ntdtv.ru
-nubuilderian.info
-nufaq.com
-o-o-11-o-o.com
-o-o-6-o-o.com
-o-o-6-o-o.ru
-o-o-8-o-o.com
-o-o-8-o-o.ru
-o-promyshlennosti.ru
-obnallpro.cc
-obsessionphrases.com
-obyavka.org.ua
-odiabetikah.com
-odsadsmobile.biz
-ofermerah.com
-office2web.com
-officedocuments.net
-ogorodnic.com
-okna-systems.pro
-okno.ooo
-okoshkah.com
-olovoley.ru
-one-a-plus.xyz
-online-akbars.ru
-online-binbank.ru
-online-hit.info
-online-intim.com
-online-mkb.ru
-online-pharma.ru
-online-pochtabank.ru
-online-raiffeisen.ru
-online-sbank.ru
-online-templatestore.com
-online-vostbank.ru
-online-vtb.ru
-onlinedic.net
-onlinetvseries.me
-onlinewot.ru
-onlywoman.org
-ooo-olni.ru
-oooh.pro
-optsol.ru
-oracle-patches.ru
-orakul.spb.ru
-osteochondrosis.ru
-otdbiaxaem-vmeste.ru
-otdyx-s-komfortom.ru
-ownshop.cf
-ozas.net
-pageinsider.org
-paidonlinesites.com
-painting-planet.com
-palma-de-sochi.ru
-palvira.com.ua
-pamjatnik.com.ua
-paretto.ru
-parking-invest.ru
-partizan19.ru
-paulinho.ru
-pay.ru
-pc-services.ru
-penzu.xyz
-perform-like-alibabaity.info
-perform-likeism-alibaba.info
-perm.dienai.ru
-perper.ru
-petrovka-online.com
-petrushka-restoran.ru
-pfrf-kabinet.ru
-pharm--shop.ru
-photo-clip.ru
-photokitchendesign.com
-php-market.ru
-picturesmania.com
-pills24h.com
-piluli.info
-piratbike.ru
-pirelli-matador.ru
-piulatte.cz
-pizza-imperia.com
-pizza-tycoon.com
-pk-pomosch.ru
-pk-services.ru
-plagscan.com
-podarkilove.ru
-podemnik.pro
-podseka1.ru
-poiskzakona.ru
-pokupaylegko.ru
-polemikon.ru
-polyana-skazok.org.ua
-popads.net
-pops.foundation
-popugauka.ru
-popugaychiki.com
-porndl.org
-pornhive.org
-pornhub-forum.ga
-pornhub-forum.uni.me
-pornhub-ru.com
-porno-chaman.info
-pornobest.su
-pornoelita.info
-pornoforadult.com
-pornogig.com
-pornohd1080.online
-pornoklad.ru
-pornonik.com
-pornoplen.com
-pornosemki.info
-pornoslave.net
-portnoff.od.ua
-pospektr.ru
-posteezy.xyz
-potolokelekor.ru
-povodok-shop.ru
-pozdravleniya-c.ru
-predmety.in.ua
-prezidentshop.ru
-priceg.com
-pricheski-video.com
-print-technology.ru
-prlog.ru
-probenzo.com.ua
-procrafts.ru
-prodaemdveri.com
-producm.ru
-prodvigator.ua
-professionalsolutions.eu
-profnastil-moscow.ru
-prointer.net.ua
-prom23.ru
-promoforum.ru
-promoteapps.online
-promotion-for99.com
-pron.pro
-prosmibank.ru
-prostitutki-rostova.ru.com
-prostoacc.com
-psa48.ru
-psn-card.ru
-ptashkatextil.ua
-punch.media
-purchasepillsnorx.com
-QIWI.xyz
-qualitymarketzone.com
-quickchange.cc
-quit-smoking.ga
-qwesa.ru
-rachelblog.online
-rangjued.com
-rank-checker.online
-rankings-analytics.com
-ranksonic.info
-ranksonic.net
-ranksonic.org
-rapidgator-porn.ga
-rapidsites.pro
-raschtextil.com.ua
-raymondblog.top
-razborka-skoda.org.ua
-rcb101.ru
-realresultslist.com
-recinziireale.com
-rednise.com
-redraincine.com
-regionshop.biz
-reklamnoe.agency
-releshop.ru
-remkompov.ru
-remont-kvartirspb.com
-remontvau.ru
-rent2spb.ru
-replica-watch.ru
-research.ifmo.ru
-resell-seo-services.com
-resellerclub.com
-responsive-test.net
-resurs-2012.ru
-reversing.cc
-rfavon.ru
-rightenergysolutions.com.au
-roof-city.ru
-room-mebel.ru
-rospromtest.ru
-rspectr.com
-ru-lk-rt.ru
-ru-online-sberbank.ru
-ruinfocomp.ru
-rulate.ru
-rumamba.com
-rupolitshow.ru
-rus-lit.com
-rusexy.xyz
-ruspoety.ru
-russian-postindex.ru
-russian-translator.com
-russkie-sochineniya.ru
-rustag.ru
-rutor.group
-rxshop.md
-rybalka-opt.ru
-s-forum.biz
-s-luna.me
-sad-torg.com.ua
-sady-urala.ru
-saltspray.ru
-samanthablog.online
-samara-airport.com
-samara-comfort.ru
-samchist.ru
-samlaurabrown.top
-samogonius.ru
-sanjosestartups.com
-santaren.by
-santasgift.ml
-santehnovich.ru
-savetubevideo.com
-savetubevideo.info
-scansafe.net
-scat.porn
-screentoolkit.com
-scripted.com
-search-error.com
-searchencrypt.com
-security-corporation.com.ua
-sel-hoz.com
-selfhotdog.com
-sell-fb-group-here.com
-semalt.com
-semaltmedia.com
-seo-2-0.com
-seo-platform.com
-seo-services-b2b.com
-seo-services-wordpress.com
-seo-smm.kz
-seo-tips.top
-seoanalyses.com
-seobook.top
-seocheckupx.com
-seocheckupx.net
-seoexperimenty.ru
-seojokes.net
-seopub.net
-seoservices2018.com
-serialsx.ru
-sexsaoy.com
-sexuria.net
-sexyali.com
-sexyteens.hol.es
-shagtomsk.ru
-share-buttons-for-free.com
-share-buttons.xyz
-sharebutton.io
-sharebutton.net
-sharebutton.to
-sheki-spb.ru
-shnyagi.net
-shopfishing.com.ua
-shoppingmiracles.co.uk
-shoprybalka.ru
-shops-ru.ru
-shtaketniki.ru
-shulepov.ru
-sibecoprom.ru
-sibkukla.ru
-sign-service.ru
-silvergull.ru
-sim-dealer.ru
-similarmoviesdb.com
-simple-share-buttons.com
-sinhronperevod.ru
-site-auditor.online
-site5.com
-siteripz.net
-sitesadd.com
-sitevaluation.org
-skidku.org.ua
-skinali.com
-skinali.photo-clip.ru
-sladkoevideo.com
-sledstvie-veli.net
-slftsdybbg.ru
-slkrm.ru
-slomm.ru
-slotron.com
-slow-website.xyz
-smailik.org
-smartphonediscount.info
-smt4.ru
-snabs.kz
-snegozaderzhatel.ru
-snip.to
-snip.tw
-soaksoak.ru
-sochi-3d.ru
-social-button.xyz
-social-buttons-ii.xyz
-social-buttons.com
-social-traffic-1.xyz
-social-traffic-2.xyz
-social-traffic-3.xyz
-social-traffic-4.xyz
-social-traffic-5.xyz
-social-traffic-7.xyz
-social-widget.xyz
-socialbuttons.xyz
-socialseet.ru
-socialtrade.biz
-sohoindia.net
-solitaire-game.ru
-solnplast.ru
-sosdepotdebilan.com
-souvenirua.com
-sovetogorod.ru
-sovetskie-plakaty.ru
-sowhoz.ru
-soyuzexpedition.ru
-sp-laptop.ru
-sp-zakupki.ru
-space2019.top
-spain-poetry.com
-spartania.com.ua
-spb-plitka.ru
-spb-scenar.ru
-specstroy36.ru
-speedup-my.site
-spin2016.cf
-sportwizard.ru
-spravka130.ru
-spravkavspb.net
-spravkavspb.work
-spy-app.info
-squarespace.top
-sribno.net
-sssexxx.net
-sta-grand.ru
-stat.lviv.ua
-stavimdveri.ru
-steame.ru
-stiralkovich.ru
-stocktwists.com
-stoliar.org
-store-rx.com
-strady.org.ua
-stream-tds.com
-stroi-24.ru
-stroy-matrix.ru
-stroyalp.ru
-stroyka47.ru
-studentguide.ru
-stylecaster.top
-su1ufa.ru
-success-seo.com
-sundrugstore.com
-super-seo-guru.com
-superiends.org
-supermama.top
-supermodni.com.ua
-superoboi.com.ua
-supervesti.ru
-svadba-teplohod.ru
-svensk-poesi.com
-svet-depo.ru
-svetka.info
-svetoch.moscow
-svoimi-rukamy.com
-svs-avto.com
-sweet.tv
-t-machinery.ru
-t-rec.su
-taihouse.ru
-tam-gde-more.ru
-tamada69.com
-tammyblog.online
-tattoo-stickers.ru
-tattooha.com
-td-abs.ru
-td-l-market.ru
-td-perimetr.ru
-tdbatik.com
-technika-remont.ru
-tedxrj.com
-teman.com.ua
-tentcomplekt.ru
-teplohod-gnezdo.ru
-teplokomplex.ru
-teresablog.top
-tesla-audit.ru
-texnika.com.ua
-tgtclick.com
-thaimassage-slon.ru
-thaoduoctoc.com
-the-world.ru
-theautoprofit.ml
-theguardlan.com
-thelotter.su
-thesensehousehotel.com
-thesmartsearch.net
-timmy.by
-tocan.biz
-tocan.com.ua
-tokshow.online
-tomck.com
-top-gan.ru
-top-instagram.info
-top-l2.com
-top1-seo-service.com
-top10-online-games.com
-top10-way.com
-toposvita.com
-topquality.cf
-topseoservices.co
-torrentgamer.net
-track-rankings.online
-tracker24-gps.ru
-trafers.com
-traffic-cash.xyz
-traffic2cash.org
-traffic2cash.xyz
-traffic2money.com
-trafficgenius.xyz
-trafficmonetize.org
-trafficmonetizer.org
-transit.in.ua
-traphouselatino.net
-tricolortv-online.com
-trion.od.ua
-truebeauty.cc
-tsatu.edu.ua
-tsc-koleso.ru
-tuningdom.ru
-tvfru.org
-twsufa.ru
-ua.tc
-uasb.ru
-ucanfly.ru
-ucoz.ru
-udav.net
-ufa.dienai.ru
-uginekologa.com
-ukrainian-poetry.com
-ukrcargo.com
-ukrtvory.in.ua
-ul-potolki.ru
-undergroundcityphoto.com
-unibus.su
-univerfiles.com
-unlimitdocs.net
-unpredictable.ga
-uptime-as.net
-uptime-eu.net
-uptime-us.net
-uptime.com
-uptimechecker.com
-urblog.xyz
-uruto.ru
-uslugi-tatarstan.ru
-uyutmaster73.ru
-uzpaket.com
-uzungil.com
-vaderenergy.ru
-validus.pro
-vape-x.ru
-vardenafil20.com
-varikozdok.ru
-veles.shop
-veloland.in.ua
-ventopt.by
-veselokloun.ru
-vesnatehno.com
-vetbvc.ru
-vezdevoz.com.ua
-vgoloveboli.net
-viagra-soft.ru
-video--production.com
-video-woman.com
-videochat.world
-videos-for-your-business.com
-videotop.biz
-viel.su
-viktoria-center.ru
-vkonche.com
-vladtime.ru
-vodabur.by
-vodaodessa.com
-vodkoved.ru
-volond.com
-vpdr.pl
-vsdelke.ru
-vseigru.one
-vseprobrak.ru
-vzheludke.com
-vzubah.com
-vzube.com
-vzubkah.com
-w2mobile-za.com
-w3javascript.com
-wakeupseoconsultant.com
-wallinside.top
-wallpaperdesk.info
-wallpapers-all.com
-warmex.com.ua
-wdss.com.ua
-we-ping-for-youic.info
-web-revenue.xyz
-webalex.pro
-webmaster-traffic.com
-webmonetizer.net
-website-analytics.online
-website-analyzer.info
-website-speed-check.site
-website-speed-checker.site
-websites-reviews.com
-websocial.me
-weburlopener.com
-weightbelts.ru
-wfdesigngroup.com
-wmasterlead.com
-woman-orgasm.ru
-wordpress-crew.net
-wordpresscore.com
-workius.ru
-works.if.ua
-worldmed.info
-worldofbtc.com
-wrc-info.ru
-wufak.com
-ww2awards.info
-www-lk-rt.ru
-x-lime.com
-x-lime.net
-x5market.ru
-xkaz.org
-xn-------53dbcapga5atlplfdm6ag1ab1bvehl0b7toa0k.xn--p1ai
-xn------6cdbciescapvf0a8bibwx0a1bu.xn--90ais
-xn-----6kcamwewcd9bayelq.xn--p1ai
-xn-----7kcaaxchbbmgncr7chzy0k0hk.xn--p1ai
-xn-----clckdac3bsfgdft3aebjp5etek.xn--p1ai
-xn----7sbabb9a1b7bddgm6a1i.xn--p1ai
-xn----7sbabhjc3ccc5aggbzfmfi.xn--p1ai
-xn----7sbabhv4abd8aih6bb7k.xn--p1ai
-xn----7sbabm1ahc4b2aqff.su
-xn----7sbabn5abjehfwi8bj.xn--p1ai
-xn----7sbbpe3afguye.xn--p1ai
-xn----7sbho2agebbhlivy.xn--p1ai
-xn----8sbaki4azawu5b.xn--p1ai
-xn----8sbarihbihxpxqgaf0g1e.xn--80adxhks
-xn----8sbbjimdeyfsi.xn--p1ai
-xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai
-xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
-xn----8sbowe2akbcd4h.xn--p1ai
-xn----btbdvdh4aafrfciljm6k.xn--p1ai
-xn----ctbbcjd3dbsehgi.xn--p1ai
-xn----ctbfcdjl8baejhfb1oh.xn--p1ai
-xn----ctbigni3aj4h.xn--p1ai
-xn----dtbffp5aagjgfm.xn--p1ai
-xn----ftbeoaiyg1ak1cb7d.xn--p1ai
-xn----itbbudqejbfpg3l.com
-xn--80aaajkrncdlqdh6ane8t.xn--p1ai
-xn--80aabcsc3bqirlt.xn--p1ai
-xn--80aanaardaperhcem4a6i.com
-xn--80adaggc5bdhlfamsfdij4p7b.xn--p1ai
-xn--80adgcaax6acohn6r.xn--p1ai
-xn--80aeb6argv.xn--p1ai
-xn--90acenikpebbdd4f6d.xn--p1ai
-xn--90acjmaltae3acm.xn--p1acf
-xn--c1acygb.xn--p1ai
-xn--d1abj0abs9d.in.ua
-xn--d1aifoe0a9a.top
-xn--e1aaajzchnkg.ru.com
-xn--e1aahcgdjkg4aeje6j.kz
-xn--e1agf4c.xn--80adxhks
-xpert.com.ua
-xtraffic.plus
-xtrafficplus.com
-xz618.com
-yaderenergy.ru
-yes-com.com
-yes-do-now.com
-yhirurga.ru
-ykecwqlixx.ru
-yodse.io
-yoga4.ru
-youporn-forum.ga
-youporn-forum.uni.me
-youporn-ru.com
-your-good-links.com   
-your-tales.ru
-yourserverisdown.com
-yur-p.ru
-yurcons.pro
-yuristproffi.ru
-zagadki.in.ua
-zahvat.ru
-zamolotkom.ru
-zapnado.ru
-zastroyka.org
-zavod-gm.ru
-zdm-auto.com
-zdm-auto.ru
-zdorovie-nogi.info
-zelena-mriya.com.ua
-zoominfo.com
-zot.moscow
-zt-m.ru
-zvetki.ru
+#Bloqueo de Bots SCROLLDOWN
+RewriteEngineOn
+  RewriteCond %{HTTP_USER_AGENT}  ^^033nachtvandeliteratuur.nl [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^03e.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^03p.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^0n-line.tv [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1-99seo.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1-free-share-buttons.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^100-reasons-for-seo.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^100dollars-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^100searchengines.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^12-reasons-for-seo.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^12masterov.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^12u.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^15-reasons-for-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1kreditzaim.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1pamm.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1st-urist.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^1webmaster.ml  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^2-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^2-easy.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^2-go-now.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^24h.doctor [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^24x7-server-support.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^2your.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^3-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^3-letter-domains.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^3waynetworks.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^4-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^4inn.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^4istoshop.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^4webmasters.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^5-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^5-steps-to-start-business.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^5elementov.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^5forex.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^6-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^6hopping.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^7-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^7kop.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^7makemoneyonline.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^7zap.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^8-best-seo.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^8xv8.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^9-best-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^99-reasons-for-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^a-elita.in.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^abcdefh.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^abcdeg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^abclauncher.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^acads.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^acarreo.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^account-my1.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^actualremont.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^acunetix-referrer.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adanih.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adcash.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adf.ly [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adspart.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adtiger.tk [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adventureparkcostarica.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^adviceforum.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^advokateg.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aerodizain.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aerotour.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^affordablewebsitesandmobileapps.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^afora.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^agro-gid.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ai-seo-services.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aibolita.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aidarmebel.kz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aitiman.ae [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^akuhni.by  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^albuteroli.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alcobutik24.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alexsander.ch  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alfabot.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alibestsale.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aliexsale.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alinabaniecka.pl [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alkanfarma.org
+  RewriteCond %{HTTP_USER_AGENT}  ^all-news.kz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allcryptonews.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allergick.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allergija.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allknow.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allmarketsnewdayli.gdn [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allnews.md [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allnews24.in [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allvacancy.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allwomen.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^allwrighter.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alp-rk.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alphaopt24.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^alpharma.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^altermix.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^amazon-seo-service.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^amos-kids.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^amt-k.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^amtel-vredestein.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^amylynnandrews.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^anabolics.shop [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^anal-acrobats.hol.es [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^analytics-ads.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^anapa-inns.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^android-style.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^animalphotos.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^animenime.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^annaeydlish.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^anticrawler.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^antiguabarbuda.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^antonovich-design.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^applepharma.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^apteka-doc.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^apteka-pharm.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^arabic-poetry.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^arendadogovor.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^arendakvartir.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^arendovalka.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^argo-visa.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^arkkivoltti.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^artblog.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^artclipart.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^artdeko.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^artpaint-market.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^artparquet.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^artpress.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^arturs.moscow  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aruplighting.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ask-yug.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^asupro.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^atleticpharm.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^atyks.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^auto-b2b-seo-service.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^auto-complex.by  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^auto-kia-fulldrive.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^auto-seo-service.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autoblog.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autofuct.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^automobile-spec.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autoseo-service.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autoseo-traffic.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autoseotips.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autoservic.by  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^autovideobroadcast.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^avcoast.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aviaseller.su  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aviva-limoux.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^avkzarabotok.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^avtointeres.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^avtorskoe-vino.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^avtovykup.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^aworlds.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^axcus.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^azartclub.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^azbukafree.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^azlex.uz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^backlinks-fast-top.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^baixar-musicas-gratis.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^baladur.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^balayazh.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^balitouroffice.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^balkanfarma.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^barbarahome.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bard-real.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^batut-fun.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bavariagid.de  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^beachtoday.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^beauty-lesson.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^beclean-nn.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bedroomlighting.us [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^belreferatov.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^beremenyashka.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-deal-hdd.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-mam.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-ping-service-usa.blue [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-printmsk.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-seo-offer.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-seo-software.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^best-seo-solution.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bestbookclub.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bestfortraders.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bestmobilityscooterstoday.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bestofferhddbyt.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bestofferhddeed.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bestwebsitesawards.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^betterhealthbeauty.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bettorschool.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bez-zabora.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bezprostatita.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bif-ru.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^biglistofwebsites.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^billiard-classic.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^billyblog.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bin-brokers.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^binokna.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bio-market.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^biplanecentre.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bird1.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bitcoin-ua.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^biteg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^biz-law.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bizru.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bki24.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^black-friday.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blackhatworth.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blog100.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blog2019.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blog2019.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blog4u.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blogseo.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blogstar.fun [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blogtotal.de [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blogua.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^blue-square.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bluerobot.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bo-vtb24.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^boltalko.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^boltushkiclub.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bonkers.name [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bonus-spasibo-sberbank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bonus-vtb.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^boostmyppc.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bpro1.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brakehawk.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brateg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brauni.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.news [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bravica.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^break-the-chains.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brickmaster.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brillianty.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brk-rti.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brothers-smaller.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^brusilov.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bsell.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^budilneg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^budmavtomatika.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bufetout.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buhproffi.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buildnw.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buildwithwendy.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buketeg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bukleteg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bulgaria-web-developers.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^bur-rk.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^burger-imperia.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^burn-fat.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^business-online-sberbank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buttons-for-website.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buttons-for-your-website.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buy-cheap-online.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buy-cheap-pills-order-online.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buy-forum.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buy-meds24.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buynorxx.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buypillsonline24h.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^buypuppies.ca [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^call-of-duty.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cardiosport.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^carezi.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^carivka.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^carscrim.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cartechnic.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^catterybengal.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cattyhealth.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cenokos.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cenoval.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cezartabac.ro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^chainii.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^chatroulette.life [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^chcu.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cheap-trusted-backlinks.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cheappills24h.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^chelyabinsk.dienai.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^chinese-amezon.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^chizhik-2.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ci.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cityadspix.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^citybur.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cityreys.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^civilwartheater.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cleaningservices.kiev.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^clicksor.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^climate.by [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^clothing-deal.club [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^club-lukojl.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^coderstate.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^codysbbq.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^coffeemashiny.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^columb.net.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^commerage.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^comp-pomosch.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-alex.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-alexa.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-andrew.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-barak.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-brian.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-don.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-donald.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-elena.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-fred.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-george.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-irvin.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-ivan.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-john.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^compliance-julianna.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^computer-remont.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^conciergegroup.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^concretepol.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^connectikastudio.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-aa.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-bb.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-cc.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-dd.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-ee.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-ff.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-gg.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-hh.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-ii.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-jj.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-kk.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-ll.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-mm.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-nn.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-oo.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-pp.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-qq.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-rr.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-ss.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-tt.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-uu.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-vv.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-ww.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-xx.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-yy.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cookie-law-enforcement-zz.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^copyrightclaims.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^copyrightinstitute.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cosmediqueresults.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^covadhosting.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^coverage-my.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cp24.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^credit-card-tinkoff.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^credit.co.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^customsua.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^cyber-monday.ga  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dacha-svoimi-rukami.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dailyrank.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dailyseo.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^darleneblog.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^darodar.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dawlenie.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dbutton.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dcdcapital.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^deart-13.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^delfin-aqua.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^deluxewatch.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^demenageur.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dengi-v-kredit.in.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dent-home.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dentuled.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dermatovenerologiya.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^descargar-musica-gratis.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^detailedvideos.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^detskie-konstruktory.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^deutsche-poesie.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dev-seo.blog [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^diatelier.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dicru.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dienai.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^diplomas-ru.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dipstar.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^discounttaxi.kz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^distonija.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^divan-dekor.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dividendo.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^djekxa.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^djonwatch.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dktr.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dna-sklad.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dnmetall.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^docs4all.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^docsarchive.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^docsportal.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^doctornadezhda.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^documentbase.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^documentserver.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^documentsite.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dodge-forum.eu [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^doggyhealthy.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dogovorpodryada.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dogsrun.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dojki-devki.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dojki-hd.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dom-international.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^domain-tracker.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^domashniy-hotel.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^domashniy-recepti.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dominateforex.ml [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^domination.ml  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dommdom.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^domovozik.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dompechey.by [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^domsadiogorod.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^doska-vsem.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dostavka-v-krym.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dosugrostov.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^doxyporno.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^doxysexy.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^draniki.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^drev.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^drugs-no-rx.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^drugstoreforyou.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^drupa.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dspautomations.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dvk-stroi.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^dvr.biz.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^e-buyeasy.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^e-commerce-seo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^e-commerce-seo1.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^e-stroymart.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eaptekaplus.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^earn-from-articles.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^earnian-money.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^easycommerce.cf  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ecblog.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ecommerce-seo.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ecomp3.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^econom.co  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^edakgfvwql.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^edmed-sonline.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^educhess.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^edudocs.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eduinfosite.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eduserver.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ege-essay.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ege-krasnoyarsk.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^egovaleo.it  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ek-invest.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ekatalog.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eko-gazon.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ekoproekt-kr.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ekto.ee  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^electric-blue-industries.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^elegante-vitrage.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^elektrikovich.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^elementspluss.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^elentur.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ellemarket.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^elmifarhangi.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^elvel.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^emctestlab.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^emerson-rus.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^energomash.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^englishtopic.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^enter-unicredit.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^epicdiving.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eraglass.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eric-artem.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eropho.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^erot.co  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^es-pfrf.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^escort-russian.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eskei83.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^este-line.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^etairikavideo.gr [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^etehnika.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^etotupo.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ets-2-mod.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eu-cookie-law-enforcement2.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eurocredit.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^euromasterclass.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^europages.com.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eurosamodelki.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^event-tracking.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eventiyahall.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^exdocsfiles.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^expediacustomerservicenumber.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^expert-find.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^express-vyvoz.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^eyes-on-you.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^f1nder.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fainaidea.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fanoboi.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fartunabest.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fashiong.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fast-wordpress-start.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fazika.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fbdownloader.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^feminist.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fialka.tomsk.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fidalsa.de [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^filesclub.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^filesdatabase.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^films2018.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^filter-ot-zheleza.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^financial-simulation.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^finansov.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^finder.cool  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^findercarphotos.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fix-website-errors.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^flexderek.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^floating-share-buttons.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^flowertherapy.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^flyblog.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^for-marketersy.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^for-your.website [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^forex-procto.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^forsex.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fortwosmartcar.pw  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^forum69.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^foxweber.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^francaise-poesie.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^frauplus.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-fb-traffic.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-fbook-traffic.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-floating-buttons.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-share-buttons.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-social-buttons.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-social-buttons.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-social-buttons7.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-traffic.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-video-tool.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^free-website-traffic.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^freenode.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^freewhatsappload.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^freewlan.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^freshnails.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^fsalas.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^galblog.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^game300.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gandikapper.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gatwick.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gazel-72.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gbh-invest.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gearcraft.us [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gearsadspromo.club [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gelstate.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^generalporn.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^georgeblog.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gepatit-info.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^germes-trans.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-clickize.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-free-social-traffic.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-free-traffic-now.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-more-freeer-visitors.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-more-freeish-visitors.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-seo-help.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^get-your-social-buttons.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getaadsincome.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getadsincomely.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getfy-click.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getlamborghini.ga  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getpy-click.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getrichquick.ml  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^getrichquickly.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gezlev.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ghazel.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ghostvisitor.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gidonline.one  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^giftbig.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^girlporn.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gkvector.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^glavprofit.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^global-smm.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gobongo.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^good-potolok.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^goodbyecellulite.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^goodhumor24.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^goodprotein.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^google-liar.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^googlemare.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^googlsucks.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gorgaz.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^grafaman.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^greatblog.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^groshi-kredut.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^growth-hackingan.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^growth-hackingor.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^growth-hackingy.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^gruzchiki24.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^guardlink.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^guidetopetersburg.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^halefa.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^handicapvantoday.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hankspring.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^happysong.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hard-porn.mobi [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^havepussy.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hawaiisurf.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hdmoviecamera.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hdmoviecams.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^headpharmacy.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^healbio.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^healgastro.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hentai-manga.porn  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hit-kino.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^holiday-shop.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^holistickenko.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^holodkovich.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^homeafrikalike.tk  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^homemypicture.tk [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hongfanji.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hosting-tracker.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hottour.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^housedesigning.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^housediz.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^housemilan.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^howopen.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^howtostopreferralspam.eu [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hoztorg-opt.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hseipaa.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hulfingtonpost.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^humanorightswatch.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hundejo.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^huntdown.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hvd-store.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hydra-2019.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hydra2.market  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^hyip-zanoza.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^i-spare.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ib-homecredit.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ib-rencredit.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ico.re [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^igadgetsworld.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^igru-xbox.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilikevitaly.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^iloveitaly.ro  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^iloveitaly.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilovevitaly.co [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilovevitaly.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilovevitaly.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilovevitaly.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilovevitaly.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ilovevitaly.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^iminent.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^imperiafilm.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^impotentik.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^in-sto.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^incanto.in.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^incitystroy.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^incomekey.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^increasewwwtraffic.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^inet-shop.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^infektsii.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^infodocsportal.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^infogame.name  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^inform-ua.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^inmoll.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^insider.pro  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^insultu-net.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^interferencer.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^intex-air.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^investpamm.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^iskalko.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^iskussnica.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^isotoner.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ispaniya-costa-blanca.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^it-max.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^izhstrelok.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^jav-fetish.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^jav-fetish.site  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^javcoast.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^javlibrary.cc  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^jeffbullas.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^jjbabskoe.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^jobius.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^josephineblog.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^jumkite.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^justkillingti.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^justprofit.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabbalah-red-bracelets.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-5ka.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-alfaclick.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-binbank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-card-5ka.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-click-alfabank.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-esia-gosuslugi.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-faberlic.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-gosuslugi.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-ipoteka-domclick.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-karta-5ka.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-lk-megafon.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-lk-rt.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-login-mts.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-mil.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-mos.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-my-beeline.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-my-pochtabank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-nalog.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-bm.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-open.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-rsb.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-rshb.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-sberbank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-sovcombank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-online-vtb.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-pfr.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-pfrf.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-platon.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-qiwi.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-tele2.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-tinkoff.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-tricolor.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-ttk.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kabinet-vtb24.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kakablog.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kakadu-interior.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kambasoft.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kamin-sam.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^karapuz.org.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kazka.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kazlenta.kz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kazrent.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kerch.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kevblog.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^keywords-monitoring-success.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^keywords-monitoring-your-success.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kharkov.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kierowca-praca.pl  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kino-fun.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kino-key.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kino2018.cc  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kinobum.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kinopolet.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kinosed.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kinostar.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^knigonosha.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kollekcioner.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^komp-pomosch.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^komputers-best.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^komukc.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^konkursov.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kozhakoshek.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kozhasobak.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kozhniebolezni.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krasivoe-hd.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krasnodar-avtolombard.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krasota-zdorovie.pw  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krasota.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kredutu.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kredytbank.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^kruiz-sochi.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krumble-adsde.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krumble-adsen.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^krumbleent-ads.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lakiikraski.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lalalove.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^laminat.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^landliver.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^landoftracking.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^laptop-4-less.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^law-check-two.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^law-enforcement-bot-ff.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^law-enforcement-check-three.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^law-enforcement-ee.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^law-six.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lawrenceblog.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^laxdrills.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^leboard.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ledalfa.by [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ledx.by  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^leeboyrussia.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^legalrc.biz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lerporn.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^leto-dacha.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lider82.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lifespeaker.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lipidofobia.com.br [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^littleberry.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^livefixer.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^livejournal.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^livia-pache.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^livingroomdecoratingideas.website  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lk-gosuslugi.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lk-lk-rt.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^local-seo-for-multiple-locations.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^login-tinkoff.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^logo-all.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lotoflotto.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^loveorganic.ch [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lowpricesiterx.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lsex.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^luckybull.io [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lukoilcard.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^lumb.co  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^luton-invest.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^luxup.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^magicart.store [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^magicdiet.gq [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^magnetic-bracelets.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mainhunter.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^makemoneyonline.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^makeprogress.ga  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^makler.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mamylik.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^manimpotence.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^manualterap.roleforum.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^marblestyle.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^maridan.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^marinetraffic.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^marjorieblog.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^marketland.ml  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^masterseek.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^matomete.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^matras.space [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mattgibson.us  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^max-apprais.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^maxxximoda.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mebel-arts.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mebel-ekb.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mebel-iz-dereva.kiev.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mebelcomplekt.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mebeldekor.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^med-dopomoga.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^med-zdorovie.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^medbrowse.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^medic-al.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^medicaltranslate.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^medicineseasybuy.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^meds-online24.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^meduza-consult.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^megalit-d.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^megapolis-96.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^meriton.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^metallo-konstruktsii.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^metallosajding.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^meteocast.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mhp.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mifepriston.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^migronis.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mikozstop.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mikrocement.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mikrozaim.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mikrozaym2you.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^minegam.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mirfairytale.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mirobuvi.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mirtorrent.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^misselle.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mksoap.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mksport.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mmdoors.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mnogabukaff.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mobilemedia.md [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mockupui.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^modforwot.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^modnie-futbolki.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moe1.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moinozhki.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moisadogorod.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^monetizationking.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^money-for-placing-articles.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^money7777.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moneytop.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moneyzzz.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^monicablog.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moonci.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mosrif.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mostcool.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mostorgnerud.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moy-dokument.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moyakuhnia.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moygorod-online.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^moyparnik.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mrbojikobi4.biz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mtsguru.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^muscle-factory.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^musichallaudio.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mwductwork.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mybuh.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mycheaptraffic.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mydoctorok.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^myftpupload.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^myplaycity.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^mysexpics.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nachalka21.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nakozhe.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nanochskazki.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^narosty.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^natali-forex.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^natprof.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^naturalpharm.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nbok.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^needtosellmyhousefast.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^net-profits.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nevapotolok.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^newsrosprom.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^newstaffadsshop.club [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nicola.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^niki-mlt.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nizniynovgorod.dienai.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^no-rx.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^novosti-avto.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^novosti-hi-tech.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ntdtv.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nubuilderian.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^nufaq.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^o-o-11-o-o.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^o-o-6-o-o.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^o-o-6-o-o.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^o-o-8-o-o.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^o-o-8-o-o.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^o-promyshlennosti.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^obnallpro.cc [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^obsessionphrases.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^obyavka.org.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^odiabetikah.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^odsadsmobile.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ofermerah.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^office2web.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^officedocuments.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ogorodnic.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^okna-systems.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^okno.ooo [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^okoshkah.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^olovoley.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^one-a-plus.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-akbars.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-binbank.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-hit.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-intim.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-mkb.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-pharma.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-pochtabank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-raiffeisen.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-sbank.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-templatestore.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-vostbank.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^online-vtb.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^onlinedic.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^onlinetvseries.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^onlinewot.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^onlywoman.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ooo-olni.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^oooh.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^optsol.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^oracle-patches.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^orakul.spb.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^osteochondrosis.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^otdbiaxaem-vmeste.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^otdyx-s-komfortom.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ownshop.cf [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ozas.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pageinsider.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^paidonlinesites.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^painting-planet.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^palma-de-sochi.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^palvira.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pamjatnik.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^paretto.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^parking-invest.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^partizan19.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^paulinho.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pay.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pc-services.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^penzu.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^perform-like-alibabaity.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^perform-likeism-alibaba.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^perm.dienai.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^perper.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^petrovka-online.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^petrushka-restoran.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pfrf-kabinet.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pharm--shop.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^photo-clip.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^photokitchendesign.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^php-market.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^picturesmania.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pills24h.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^piluli.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^piratbike.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pirelli-matador.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^piulatte.cz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pizza-imperia.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pizza-tycoon.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pk-pomosch.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pk-services.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^plagscan.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^podarkilove.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^podemnik.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^podseka1.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^poiskzakona.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pokupaylegko.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^polemikon.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^polyana-skazok.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^popads.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pops.foundation  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^popugauka.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^popugaychiki.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^porndl.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornhive.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornhub-forum.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornhub-forum.uni.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornhub-ru.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^porno-chaman.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornobest.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornoelita.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornoforadult.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornogig.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornohd1080.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornoklad.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornonik.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornoplen.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornosemki.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pornoslave.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^portnoff.od.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pospektr.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^posteezy.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^potolokelekor.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^povodok-shop.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pozdravleniya-c.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^predmety.in.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prezidentshop.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^priceg.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pricheski-video.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^print-technology.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prlog.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^probenzo.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^procrafts.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prodaemdveri.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^producm.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prodvigator.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^professionalsolutions.eu [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^profnastil-moscow.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prointer.net.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prom23.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^promoforum.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^promoteapps.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^promotion-for99.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^pron.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prosmibank.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prostitutki-rostova.ru.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^prostoacc.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^psa48.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^psn-card.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ptashkatextil.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^punch.media  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^purchasepillsnorx.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^QIWI.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^qualitymarketzone.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^quickchange.cc [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^quit-smoking.ga  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^qwesa.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rachelblog.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rangjued.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rank-checker.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rankings-analytics.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ranksonic.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ranksonic.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ranksonic.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rapidgator-porn.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rapidsites.pro [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^raschtextil.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^raymondblog.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^razborka-skoda.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rcb101.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^realresultslist.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^recinziireale.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rednise.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^redraincine.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^regionshop.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^reklamnoe.agency [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^releshop.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^remkompov.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^remont-kvartirspb.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^remontvau.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rent2spb.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^replica-watch.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^research.ifmo.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^resell-seo-services.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^resellerclub.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^responsive-test.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^resurs-2012.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^reversing.cc [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rfavon.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rightenergysolutions.com.au  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^roof-city.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^room-mebel.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rospromtest.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rspectr.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ru-lk-rt.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ru-online-sberbank.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ruinfocomp.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rulate.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rumamba.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rupolitshow.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rus-lit.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rusexy.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ruspoety.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^russian-postindex.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^russian-translator.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^russkie-sochineniya.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rustag.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rutor.group  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rxshop.md  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^rybalka-opt.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^s-forum.biz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^s-luna.me  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sad-torg.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sady-urala.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^saltspray.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^samanthablog.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^samara-airport.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^samara-comfort.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^samchist.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^samlaurabrown.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^samogonius.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sanjosestartups.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^santaren.by  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^santasgift.ml  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^santehnovich.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^savetubevideo.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^savetubevideo.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^scansafe.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^scat.porn  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^screentoolkit.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^scripted.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^search-error.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^searchencrypt.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^security-corporation.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sel-hoz.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^selfhotdog.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sell-fb-group-here.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^semalt.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^semaltmedia.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seo-2-0.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seo-platform.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seo-services-b2b.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seo-services-wordpress.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seo-smm.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seo-tips.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seoanalyses.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seobook.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seocheckupx.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seocheckupx.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seoexperimenty.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seojokes.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seopub.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^seoservices2018.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^serialsx.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sexsaoy.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sexuria.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sexyali.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sexyteens.hol.es [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shagtomsk.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^share-buttons-for-free.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^share-buttons.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sharebutton.io [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sharebutton.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sharebutton.to [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sheki-spb.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shnyagi.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shopfishing.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shoppingmiracles.co.uk [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shoprybalka.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shops-ru.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shtaketniki.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^shulepov.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sibecoprom.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sibkukla.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sign-service.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^silvergull.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sim-dealer.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^similarmoviesdb.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^simple-share-buttons.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sinhronperevod.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^site-auditor.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^site5.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^siteripz.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sitesadd.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sitevaluation.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^skidku.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^skinali.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^skinali.photo-clip.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sladkoevideo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sledstvie-veli.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^slftsdybbg.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^slkrm.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^slomm.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^slotron.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^slow-website.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^smailik.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^smartphonediscount.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^smt4.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^snabs.kz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^snegozaderzhatel.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^snip.to  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^snip.tw  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^soaksoak.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sochi-3d.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-button.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-buttons-ii.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-buttons.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-traffic-1.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-traffic-2.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-traffic-3.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-traffic-4.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-traffic-5.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-traffic-7.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^social-widget.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^socialbuttons.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^socialseet.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^socialtrade.biz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sohoindia.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^solitaire-game.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^solnplast.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sosdepotdebilan.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^souvenirua.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sovetogorod.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sovetskie-plakaty.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sowhoz.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^soyuzexpedition.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sp-laptop.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sp-zakupki.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^space2019.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spain-poetry.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spartania.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spb-plitka.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spb-scenar.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^specstroy36.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^speedup-my.site  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spin2016.cf  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sportwizard.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spravka130.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spravkavspb.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spravkavspb.work [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^spy-app.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^squarespace.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sribno.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sssexxx.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sta-grand.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stat.lviv.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stavimdveri.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^steame.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stiralkovich.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stocktwists.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stoliar.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^store-rx.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^strady.org.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stream-tds.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stroi-24.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stroy-matrix.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stroyalp.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stroyka47.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^studentguide.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^stylecaster.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^su1ufa.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^success-seo.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sundrugstore.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^super-seo-guru.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^superiends.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^supermama.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^supermodni.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^superoboi.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^supervesti.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svadba-teplohod.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svensk-poesi.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svet-depo.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svetka.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svetoch.moscow [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svoimi-rukamy.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^svs-avto.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^sweet.tv [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^t-machinery.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^t-rec.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^taihouse.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tam-gde-more.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tamada69.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tammyblog.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tattoo-stickers.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tattooha.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^td-abs.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^td-l-market.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^td-perimetr.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tdbatik.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^technika-remont.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tedxrj.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^teman.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tentcomplekt.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^teplohod-gnezdo.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^teplokomplex.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^teresablog.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tesla-audit.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^texnika.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tgtclick.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^thaimassage-slon.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^thaoduoctoc.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^the-world.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^theautoprofit.ml [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^theguardlan.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^thelotter.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^thesensehousehotel.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^thesmartsearch.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^timmy.by [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tocan.biz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tocan.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tokshow.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tomck.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^top-gan.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^top-instagram.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^top-l2.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^top1-seo-service.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^top10-online-games.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^top10-way.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^toposvita.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^topquality.cf  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^topseoservices.co  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^torrentgamer.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^track-rankings.online  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tracker24-gps.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^trafers.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^traffic-cash.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^traffic2cash.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^traffic2cash.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^traffic2money.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^trafficgenius.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^trafficmonetize.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^trafficmonetizer.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^transit.in.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^traphouselatino.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tricolortv-online.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^trion.od.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^truebeauty.cc  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tsatu.edu.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tsc-koleso.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tuningdom.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^tvfru.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^twsufa.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ua.tc  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uasb.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ucanfly.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ucoz.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^udav.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ufa.dienai.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uginekologa.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ukrainian-poetry.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ukrcargo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ukrtvory.in.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ul-potolki.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^undergroundcityphoto.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^unibus.su  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^univerfiles.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^unlimitdocs.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^unpredictable.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uptime-as.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uptime-eu.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uptime-us.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uptime.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uptimechecker.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^urblog.xyz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uruto.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uslugi-tatarstan.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uyutmaster73.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uzpaket.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^uzungil.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vaderenergy.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^validus.pro  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vape-x.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vardenafil20.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^varikozdok.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^veles.shop [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^veloland.in.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ventopt.by [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^veselokloun.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vesnatehno.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vetbvc.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vezdevoz.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vgoloveboli.net  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^viagra-soft.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^video--production.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^video-woman.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^videochat.world  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^videos-for-your-business.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^videotop.biz [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^viel.su  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^viktoria-center.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vkonche.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vladtime.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vodabur.by [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vodaodessa.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vodkoved.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^volond.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vpdr.pl  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vsdelke.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vseigru.one  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vseprobrak.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vzheludke.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vzubah.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vzube.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^vzubkah.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^w2mobile-za.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^w3javascript.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wakeupseoconsultant.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wallinside.top [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wallpaperdesk.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wallpapers-all.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^warmex.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wdss.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^we-ping-for-youic.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^web-revenue.xyz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^webalex.pro  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^webmaster-traffic.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^webmonetizer.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^website-analytics.online [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^website-analyzer.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^website-speed-check.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^website-speed-checker.site [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^websites-reviews.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^websocial.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^weburlopener.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^weightbelts.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wfdesigngroup.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wmasterlead.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^woman-orgasm.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wordpress-crew.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wordpresscore.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^workius.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^works.if.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^worldmed.info  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^worldofbtc.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wrc-info.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^wufak.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ww2awards.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^www-lk-rt.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^x-lime.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^x-lime.net [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^x5market.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xkaz.org [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn-------53dbcapga5atlplfdm6ag1ab1bvehl0b7toa0k.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn------6cdbciescapvf0a8bibwx0a1bu.xn--90ais [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn-----6kcamwewcd9bayelq.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn-----7kcaaxchbbmgncr7chzy0k0hk.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn-----clckdac3bsfgdft3aebjp5etek.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbabb9a1b7bddgm6a1i.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbabhjc3ccc5aggbzfmfi.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbabhv4abd8aih6bb7k.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbabm1ahc4b2aqff.su [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbabn5abjehfwi8bj.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbbpe3afguye.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----7sbho2agebbhlivy.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----8sbaki4azawu5b.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----8sbarihbihxpxqgaf0g1e.xn--80adxhks [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----8sbbjimdeyfsi.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----8sbowe2akbcd4h.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----btbdvdh4aafrfciljm6k.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----ctbbcjd3dbsehgi.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----ctbfcdjl8baejhfb1oh.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----ctbigni3aj4h.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----dtbffp5aagjgfm.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----ftbeoaiyg1ak1cb7d.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn----itbbudqejbfpg3l.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--80aaajkrncdlqdh6ane8t.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--80aabcsc3bqirlt.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--80aanaardaperhcem4a6i.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--80adaggc5bdhlfamsfdij4p7b.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--80adgcaax6acohn6r.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--80aeb6argv.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--90acenikpebbdd4f6d.xn--p1ai  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--90acjmaltae3acm.xn--p1acf  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--c1acygb.xn--p1ai [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--d1abj0abs9d.in.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--d1aifoe0a9a.top  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--e1aaajzchnkg.ru.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--e1aahcgdjkg4aeje6j.kz  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xn--e1agf4c.xn--80adxhks [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xpert.com.ua [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xtraffic.plus  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xtrafficplus.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^xz618.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yaderenergy.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yes-com.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yes-do-now.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yhirurga.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^ykecwqlixx.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yodse.io [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yoga4.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^youporn-forum.ga [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^youporn-forum.uni.me [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^youporn-ru.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^your-good-links.com  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^your-tales.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yourserverisdown.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yur-p.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yurcons.pro  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^yuristproffi.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zagadki.in.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zahvat.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zamolotkom.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zapnado.ru [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zastroyka.org  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zavod-gm.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zdm-auto.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zdm-auto.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zdorovie-nogi.info [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zelena-mriya.com.ua  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zoominfo.com [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zot.moscow [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zt-m.ru  [OR]
+  RewriteCond %{HTTP_USER_AGENT}  ^zvetki.ru  [OR]
+  RewriteRule .* - [F]
