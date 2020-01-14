@@ -255,7 +255,7 @@ section{
 
 .heroTitle > h1 {
   font-size: 4em;
-  color: rgb(238, 238, 238);
+  color: white;
   min-height: 70px;
   letter-spacing: 3px;
   margin-bottom: 30px;
@@ -265,16 +265,9 @@ section{
   font-size: .7em;
 }
 
-/* .heroTitle > h1 {
-  font-size: 4em;
-  color: rgb(238, 238, 238); 
-  letter-spacing: 13px;
-  height: 70px;
-} */
-
 .heroInfo > p{
   min-width: 300px;
-  color: rgb(238, 238, 238);
+  color: white;
   font-size: 1.5em;
   width: 100%;
   max-width: 600px;
@@ -890,7 +883,7 @@ footer {
 footer > img{
   min-width: 300px;
   width: 30%;
-  min-height: 200px;
+  min-height: 150px;
 }
 
 footer .contacCont{
