@@ -523,7 +523,8 @@ section{
   color: white;
   border-right: 40px solid var(--primary);
   justify-content: space-evenly;
-  min-width: calc(150px + 40ch);
+  min-width: 300px;
+  max-width: calc(150px + 40ch);
   width: 40%;
   height: 100%;
   min-height: 500px;
@@ -547,7 +548,9 @@ section{
 
 #ServiceText > p{
   font-size: 1.2em;
-  width: 35ch;
+  /* min-width: 280px; */
+  /* width: 50%; */
+  max-width: 35ch;
   /* font-weight: bold; */
   /* color: black; */
 }
@@ -633,9 +636,9 @@ section{
 
 #popup-servicesContainer {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   position: fixed;
-  overflow: hidden;
+  overflow: scroll;
   top: 0;
   left: 100%;
   transform-origin: right center;
@@ -650,9 +653,10 @@ section{
   justify-content: space-evenly;
   align-items: center;
   top: 0;
-  bottom: 0;
   left: 0;
   right: 0;
+  width: 100%;
+  min-height: 100%;
 
   background-color: rgb(238, 238, 238);
 }
@@ -671,6 +675,7 @@ section{
   color: black;
   overflow: hidden;
   position: relative;
+  margin: 20px 0;
   padding: 3%;
   transition: .5s ease;
   box-shadow: 0px 12px 30px 0px;
@@ -1089,6 +1094,10 @@ footer .contacCont .contact:last-child{
     transform-origin: top;
     transform: translateY(-150%);
     z-index: -1;
+  }
+
+  #hero{
+    padding-top: 80px;
   }
 
   .heroInfo {
