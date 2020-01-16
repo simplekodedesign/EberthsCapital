@@ -118,7 +118,7 @@ function displayService () {
   const serviceToDisplay = this.getAttribute("service")
   let service = document.getElementById(serviceToDisplay)
 
-  service.style.setProperty("display", "grid")
+  service.style.setProperty("display", "flex")
 
   service.parentElement.style.setProperty("transform", "translate(-100%, 0)")
   body.style.setProperty("overflow", "hidden")
