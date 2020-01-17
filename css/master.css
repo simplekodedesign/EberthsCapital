@@ -638,7 +638,7 @@ section{
   width: 100vw;
   min-height: 100vh;
   position: fixed;
-  overflow: scroll;
+  /* overflow: scroll; */
   top: 0;
   left: 100%;
   transform-origin: right center;
