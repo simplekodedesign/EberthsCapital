@@ -679,6 +679,7 @@ section{
   padding: 3%;
   transition: .5s ease;
   box-shadow: 0px 12px 30px 0px;
+  z-index: 2;
 }
 
 .plan:hover{
@@ -692,7 +693,8 @@ section{
   position: absolute;
   bottom: -5%;
   left: -5%;
-  background: url(../img/logo-EP-Capital2.webp) center/cover no-repeat;
+  background: url(../img/logo-EP-Capital2.png) center/cover no-repeat;
+  z-index: 1;
 }
 
 .planTitle{
@@ -717,6 +719,11 @@ section{
   left: 50%;
   transform: translateX(-50%);
   border-radius: 12px;
+}
+
+.plan > .button{
+  position: relative;
+  z-index: 2;
 }
 
 .plan > .button:hover{
