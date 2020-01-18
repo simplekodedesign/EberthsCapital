@@ -979,6 +979,7 @@ footer > #logoFooter{
 #logoFooter > img{
   width: 100%;
   min-height: 150px;
+  margin-bottom: 5%;
 }
 
 #logoFooter > h4{
