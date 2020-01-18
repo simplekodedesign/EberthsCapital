@@ -254,7 +254,8 @@ section{
 }
 
 .heroTitle > h1 {
-  font-size: 4em;
+  font-size: 3.5em;
+  width: 100%;
   color: white;
   min-height: 70px;
   letter-spacing: 3px;
