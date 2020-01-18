@@ -812,9 +812,9 @@ section{
   min-width: 300px;
   width: 30%;
   max-width: 400px;
-  min-height: 550px;
+  min-height: 500px;
   height: auto;
-  max-height: 650px;
+  max-height: 600px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
