@@ -965,10 +965,24 @@ footer {
   color: white;
 }
 
-footer > img{
+footer > #logoFooter{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   min-width: 300px;
   width: 30%;
   min-height: 150px;
+  height: 100%;
+  max-height: 320px;
+}
+
+#logoFooter > img{
+  width: 100%;
+  min-height: 150px;
+}
+
+#logoFooter > h4{
+  font-size: .8rem
 }
 
 footer .contacCont{
