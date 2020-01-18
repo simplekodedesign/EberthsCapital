@@ -826,7 +826,12 @@ section{
   overflow: hidden;
   box-shadow: 0px 25px 50px -5px;
   padding:  30px;
+  transition: .5s ease;
   z-index: 2;
+}
+
+#Equipo > .member:hover{
+  box-shadow: 0px 25px 50px -5px var(--primary);
 }
 
 .member::before, .member::after{
