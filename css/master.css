@@ -229,7 +229,7 @@ section{
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  width: 48%;
+  width: 50%;
   min-width: 300px;
   min-height: 600px;
   height: 90%;
@@ -254,7 +254,7 @@ section{
 }
 
 .heroTitle > h1 {
-  font-size: 4em;
+  font-size: 3.5em;
   color: white;
   min-height: 70px;
   letter-spacing: 3px;
