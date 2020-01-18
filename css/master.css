@@ -541,7 +541,7 @@ section{
   height: 100%;
   min-height: 500px;
   margin: 20px 0;
-  padding: 20px 4%;
+  padding: 20px 4% 20px 3%;
   box-shadow: 0px 12px 30px 5px black;
   letter-spacing: .5px;
   
@@ -565,6 +565,7 @@ section{
   font-size: 1em;
   letter-spacing: 0.15em;
   word-spacing: -0.15em;
+  margin-right: 2%;
   /* min-width: 280px;
   width: 50%;
   max-width: 35ch; */
@@ -730,6 +731,10 @@ section{
   /* font-family: inherit; */
   font-size: 1.5em;
   position: relative;
+}
+
+.plan ul{
+  padding-inline-start: 20px;
 }
 
 .plan > h3::before{
