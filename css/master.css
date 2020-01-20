@@ -97,7 +97,7 @@ header > .navbar{
   flex-wrap: wrap;
   min-height: 100%;
   width: 50%;
-  min-width: 300px;
+  min-width: 500px;
 }
 
 #navbar-icon{
@@ -358,6 +358,7 @@ section{
   min-height: auto;
   flex-direction: column;
   justify-content: center;
+  margin: 20px 20px;
 }
 
 #Quiensoy .about{
@@ -434,7 +435,7 @@ section{
   min-width: 300px;
   max-width: 20%;
   text-align: center;
-  margin: 20px 0;
+  margin: 20px;
   min-height: 450px;
   /* max-width: 500px; */
 }
@@ -536,11 +537,11 @@ section{
   border-right: 40px solid var(--primary);
   justify-content: space-around;
   min-width: 300px;
-  max-width: calc(150px + 40ch);
-  width: 40%;
+  width: 50%;
+  max-width: 550px;
   height: 100%;
   min-height: 500px;
-  margin: 20px 0;
+  margin: 20px;
   padding: 20px 4% 20px 3%;
   box-shadow: 0px 12px 30px 5px black;
   letter-spacing: .5px;
@@ -566,11 +567,6 @@ section{
   letter-spacing: 0.15em;
   word-spacing: -0.15em;
   margin-right: 2%;
-  /* min-width: 280px;
-  width: 50%;
-  max-width: 35ch; */
-  /* font-weight: bold; */
-  /* color: black; */
 }
 
 .service {
@@ -580,7 +576,7 @@ section{
   height: 75vh;
   background-color: #333;
   padding: 0px 15px;
-  margin: 30px 0;
+  margin: 30px;
   position: relative;
   box-shadow: 0px 12px 30px 5px;
 }
@@ -606,7 +602,8 @@ section{
 }
 
 .service-info > p{
-  width: 30ch;
+  width: 100%;
+  max-width: 30ch;
   font-size: 16px;
   letter-spacing: 2.5px;
   word-spacing: -.2em;
@@ -695,7 +692,6 @@ section{
   min-height: 550px;
   background-color: rgb(238, 238, 238);
   border: 2px solid var(--primary);
-  /* background-color: black; */
   color: black;
   overflow: hidden;
   position: relative;
@@ -723,7 +719,6 @@ section{
 
 .planTitle{
   padding: 5px 20px;
-  /* border: 2px solid var(--primary); */
 }
 
 .plan > h2, .plan > h3{
@@ -1119,6 +1114,18 @@ footer .contacCont .contact:last-child{
   text-align: center;
 }
 
+@media screen and (max-width: 1000px){
+  #ServiceText > p{
+    width: auto;
+    text-align: left;
+  }
+
+  .service-info > p{
+    width: auto;
+    text-align: left;
+  }
+}
+
 @media screen and (max-width: 650px){
   #navbar-icon{
     display: flex;
@@ -1161,7 +1168,7 @@ footer .contacCont .contact:last-child{
 }
 
 @media screen and (max-width: 450px){
-  #ServiceText > p{
+  /* #ServiceText > p{
     width: auto;
     text-align: left;
   }
@@ -1169,7 +1176,7 @@ footer .contacCont .contact:last-child{
   .service-info > p{
     width: auto;
     text-align: left;
-  }
+  } */
 
   footer{
     flex-direction: column-reverse;
