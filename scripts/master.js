@@ -34,8 +34,11 @@ window.addEventListener("load", function () {
   svg = document.getElementsByTagName("object")
 
   window.addEventListener("scroll", () => {
+    console.log(svg);
+    
     for(elementSVG of svg){
       svgAnimate(elementSVG)
+      console.log(elementSVG);
     }
   })
 
@@ -48,16 +51,6 @@ window.addEventListener("load", function () {
     }
     this.classList.add("active")
   })
-
-  // sociosB.addEventListener("click", function (){
-  //   show(true, socios)
-  //   show(false, analistas)
-  //   show(false, inversores)
-  //   for(element of team){
-  //     element.classList.remove("active")
-  //   }
-  //   this.classList.add("active")
-  //  })
 
    analistasB.addEventListener("click", function (){
     show(false, socios)
@@ -85,10 +78,12 @@ function show(display, who){
 function svgAnimate(svgDocument){
   let svg = svgDocument.contentDocument
   velas = svg.getElementsByClassName("element")
-  if(svgDocument.getBoundingClientRect().top < 600) {
+  console.log(svgDocument.getBoundingClientRect().top);
+  if(svgDocument.getBoundingClientRect().top < 400) {
 		for(element of velas){
 			element.classList.add("animate")
-		}
+    }
+    svg.getElementById("shield").classList.add("secondAnimation")
   }
 }
     
