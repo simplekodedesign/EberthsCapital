@@ -77,13 +77,13 @@ function show(display, who){
 
 function svgAnimate(svgDocument){
   let svg = svgDocument.contentDocument
-  velas = svg.getElementsByClassName("element")
-  console.log(svgDocument.getBoundingClientRect().top);
+  // velas = svg.getElementsByClassName("element")
   if(svgDocument.getBoundingClientRect().top < 400) {
-		for(element of velas){
-			element.classList.add("animate")
-    }
-    svg.getElementById("shield").classList.add("secondAnimation")
+		// for(element of velas){
+		// 	element.classList.add("animate")
+    // }
+    // svg.getElementById("shield").classList.add("secondAnimation")
+    svg.getElementById("graph").classList.add("animate")
   }
 }
     
