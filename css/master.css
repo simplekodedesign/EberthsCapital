@@ -660,6 +660,7 @@ section{
   min-height: 100vh;
   position: fixed;
   /* overflow: scroll; */
+  overflow: auto;
   top: 0;
   left: 100%;
   transform-origin: right center;
@@ -678,6 +679,7 @@ section{
   right: 0;
   width: 100%;
   min-height: 100%;
+  /* overflow: auto; */
 
   background-color: rgb(238, 238, 238);
 }
