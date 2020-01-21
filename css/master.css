@@ -662,6 +662,7 @@ section{
 
 #popup-servicesContainer {
   width: 100vw;
+  min-height: 100vh;
   position: fixed;
   /* overflow: scroll; */
   overflow: auto;
@@ -669,6 +670,13 @@ section{
   left: 100%;
   transform-origin: right center;
   transition: .5s ease-in-out;
+
+  background-color: rgb(238, 238, 238);
+  z-index: 4;
+}
+
+.popup-service{
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
@@ -676,14 +684,9 @@ section{
   left: 0;
   right: 0;
   width: 100%;
-  min-height: 100%;
-  /* overflow: auto; */
-
-  background-color: rgb(238, 238, 238);
-  z-index: 4;
 }
 
-#popup-servicesContainer > .plan {
+.popup-service > .plan {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -754,7 +757,7 @@ section{
   color: var(--primary);
 }
 
-#popup-servicesContainer > .backButton {
+.popup-service > .backButton {
   position: absolute;
   top: 20px;
   right: 30px;
