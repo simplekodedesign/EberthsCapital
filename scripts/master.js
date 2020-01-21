@@ -31,8 +31,9 @@ window.addEventListener("load", function () {
 
   svg = document.getElementsByTagName("object")
 
-  window.addEventListener("scroll", () => {
-    
+  svgAnimate(svg[0])
+
+  window.addEventListener("scroll", () => {    
     for(elementSVG of svg){
       svgAnimate(elementSVG)
     }

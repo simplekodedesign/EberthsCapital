@@ -306,7 +306,7 @@ section{
   position: relative;
 }
 
-.heroImg > img{
+.heroImg > object{
   width: 100%;
   position: relative;
   z-index: 2;
@@ -803,7 +803,16 @@ section{
   background-color: var(--primary);
 }
 
-#Equipo > .member{
+#EquipoContainer{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  position: relative;
+  width: 100%;
+}
+
+#EquipoContainer > .member{
   background-color: #333;
   min-width: 300px;
   width: 30%;
@@ -826,7 +835,7 @@ section{
   z-index: 2;
 }
 
-#Equipo > .member:hover{
+#EquipoContainer > .member:hover{
   box-shadow: 0px 25px 50px -5px var(--primary);
 }
 
@@ -1179,6 +1188,18 @@ footer .contacCont .contact:last-child{
     width: auto;
     text-align: left;
   } */
+
+  #EquipoContainer{
+    display: grid;
+    width: 300px;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #boss{
+    grid-area: 1 / 1 / 1 / 1;
+  }
 
   footer{
     flex-direction: column-reverse;
