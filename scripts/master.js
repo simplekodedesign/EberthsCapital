@@ -100,16 +100,13 @@ function exitBio () {
   biography.style.setProperty("z-index", "-1")
 }
 
-function displayService () {
-  
-  pop_up.style.setProperty("display", "flex")
-
+function displayService () {  
   pop_up.style.setProperty("transform", "translate(-100%, 0)")
   body.style.setProperty("overflow", "hidden")
 }
 
 function unDisplayService () {
-  this.parentElement.style.setProperty("transform", "translate(0, 0)")
+  this.parentElement.parentElement.style.setProperty("transform", "translate(0, 0)")
   // setTimeout(() => {
   //   this.parentElement.style.setProperty("display", "none")
   // }, 500);

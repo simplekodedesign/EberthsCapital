@@ -664,26 +664,23 @@ section{
   width: 100vw;
   min-height: 100vh;
   position: fixed;
-  /* overflow: scroll; */
-  overflow: auto;
   top: 0;
   left: 100%;
   transform-origin: right center;
   transition: .5s ease-in-out;
-
   background-color: rgb(238, 238, 238);
   z-index: 4;
+  overflow: auto;
 }
 
 .popup-service{
+  position: absolute;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  top: 0;
-  left: 0;
-  right: 0;
   width: 100%;
+  min-height: 100%;
 }
 
 .popup-service > .plan {
