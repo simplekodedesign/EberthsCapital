@@ -1,12 +1,10 @@
 var body = document.getElementById("body")
-var pop_up = document.getElementById("popup-services")
+var pop_up = document.getElementById("popup-servicesContainer")
 const services_buttons = document.getElementsByClassName("service-more")
 const backButtons = document.getElementsByClassName("backButton")
 const header = document.getElementById("header");
 const inversores = document.getElementsByClassName("inversor")
 const inversoresB= document.getElementById("inversores")
-const socios = document.getElementsByClassName("socio")
-const sociosB = document.getElementById("socios")
 const analistas = document.getElementsByClassName("analista")
 const analistasB = document.getElementById("analistas")
 const team = document.getElementsByClassName("team")
@@ -34,16 +32,14 @@ window.addEventListener("load", function () {
   svg = document.getElementsByTagName("object")
 
   window.addEventListener("scroll", () => {
-    console.log(svg);
     
     for(elementSVG of svg){
       svgAnimate(elementSVG)
-      console.log(elementSVG);
     }
   })
 
   inversoresB.addEventListener("click", function (){
-    show(false, socios)
+    // show(false, socios)
     show(false, analistas)
     show(true, inversores)
     for(element of team){
@@ -53,7 +49,7 @@ window.addEventListener("load", function () {
   })
 
    analistasB.addEventListener("click", function (){
-    show(false, socios)
+    // show(false, socios)
     show(true, analistas)
     show(false, inversores)
 
@@ -77,12 +73,7 @@ function show(display, who){
 
 function svgAnimate(svgDocument){
   let svg = svgDocument.contentDocument
-  // velas = svg.getElementsByClassName("element")
   if(svgDocument.getBoundingClientRect().top < 400) {
-		// for(element of velas){
-		// 	element.classList.add("animate")
-    // }
-    // svg.getElementById("shield").classList.add("secondAnimation")
     svg.getElementById("graph").classList.add("animate")
   }
 }
@@ -110,20 +101,18 @@ function exitBio () {
 }
 
 function displayService () {
-  const serviceToDisplay = this.getAttribute("service")
-  let service = document.getElementById(serviceToDisplay)
+  
+  pop_up.style.setProperty("display", "flex")
 
-  service.style.setProperty("display", "flex")
-
-  service.parentElement.style.setProperty("transform", "translate(-100%, 0)")
+  pop_up.style.setProperty("transform", "translate(-100%, 0)")
   body.style.setProperty("overflow", "hidden")
 }
 
 function unDisplayService () {
-  this.parentElement.parentElement.style.setProperty("transform", "translate(0, 0)")
-  setTimeout(() => {
-    this.parentElement.style.setProperty("display", "none")
-  }, 500);
+  this.parentElement.style.setProperty("transform", "translate(0, 0)")
+  // setTimeout(() => {
+  //   this.parentElement.style.setProperty("display", "none")
+  // }, 500);
   body.style.setProperty("overflow", "auto")
 }
 

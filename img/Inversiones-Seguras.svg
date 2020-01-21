@@ -15,11 +15,11 @@
 		}
 
 		.animate + #shield{
-			animation: 1s fade 3.5s ease forwards;
+			animation: 1s fade 2.5s ease forwards;
 		}
 
 		.animate > .element{
-			animation: 2s strokes 1s linear forwards;
+			animation: 1s strokes 1s linear forwards;
 		}
 
 		@keyframes fade {
@@ -29,23 +29,23 @@
 		}
 
 		#first{
-			animation-delay: 1.5s;
-			animation-duration: 1.5s
+			animation-delay: .25s;
+			animation-duration: .5s
 		}
 
 		#second{
-			animation-delay: 2s;
-			animation-duration: 1.5s
+			animation-delay: .5s;
+			animation-duration: .5s
 		}
 
 		#third{
-			animation-delay: 2.4s;
-			animation-duration: 1.5s
+			animation-delay: .7s;
+			animation-duration: .5s
 		}
 
 		#fourth{
-			animation-delay: 2.8s;
-			animation-duration: 1.5s
+			animation-delay: .8s;
+			animation-duration: .5s
 		}
 
 		@keyframes strokes{
@@ -59,7 +59,7 @@
 		}
 
 		.animate{
-				animation: 1s fadeOff 3.5s ease forwards;
+				animation: 1s fadeOff 2.5s ease forwards;
 		}
 
 		@keyframes fadeOff{

@@ -350,8 +350,13 @@ section{
   height: auto;
   position: relative;
   /* border: 2px solid var(--primary); */
+  transition: .5s ease;
   box-shadow: 0px 12px 30px 0px var(--primary);
 }
+
+/* .imgContainer > img:hover {
+  box-shadow: 0px 12px 30px 0px rgb(85, 85, 85);
+} */
 
 #Quiensoy div{
   display: flex;
@@ -658,31 +663,20 @@ section{
 #popup-servicesContainer {
   width: 100vw;
   min-height: 100vh;
-  position: fixed;
-  /* overflow: scroll; */
+  position: absolute;
+  overflow: auto;
   top: 0;
   left: 100%;
   transform-origin: right center;
   transition: .5s ease-in-out;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(238, 238, 238);
   z-index: 4;
 }
 
-.popup-service {
-  display: none;
-  position: absolute;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  align-items: center;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  min-height: 100%;
-
-  background-color: rgb(238, 238, 238);
-}
-
-.popup-service > .plan {
+#popup-servicesContainer > .plan {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -753,7 +747,7 @@ section{
   color: var(--primary);
 }
 
-.popup-service > .backButton {
+#popup-servicesContainer > .backButton {
   position: absolute;
   top: 20px;
   right: 30px;
@@ -892,7 +886,7 @@ section{
   background-color: #333;
   opacity: 0;
 
-  padding: 50px 8%;
+  padding: 20px 8%;
   z-index: -1;
 }
 
@@ -913,6 +907,7 @@ section{
 
 .bio ul{
   text-align: left;
+  padding-inline-start: 20px;
 }
 
 .bio > p, .bio > ul{
