@@ -1176,18 +1176,6 @@ footer .contacCont .contact:last-child{
   .heroInfo {
     align-items: center;
   }
-}
-
-@media screen and (max-width: 450px){
-  /* #ServiceText > p{
-    width: auto;
-    text-align: left;
-  }
-
-  .service-info > p{
-    width: auto;
-    text-align: left;
-  } */
 
   #EquipoContainer{
     display: grid;
@@ -1200,6 +1188,18 @@ footer .contacCont .contact:last-child{
   #boss{
     grid-area: 1 / 1 / 1 / 1;
   }
+}
+
+@media screen and (max-width: 450px){
+  /* #ServiceText > p{
+    width: auto;
+    text-align: left;
+  }
+
+  .service-info > p{
+    width: auto;
+    text-align: left;
+  } */
 
   footer{
     flex-direction: column-reverse;
