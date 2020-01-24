@@ -401,6 +401,7 @@ section{
 #Quiensoy .about > p{
   word-spacing: .1rem;
   letter-spacing: 1.6px;
+  text-indent: 50px;
 }
 
 .about::before{
@@ -428,8 +429,17 @@ section{
   font-weight: bold;
 }
 
+#Quiensoy #corpo .imgContainer{
+  max-width: 600px;
+}
+
+#Quiensoy #corpo .about{
+  /* width: 60%; */
+  width: 50ch;
+}
+
 #Quiensoy #letter{
-  width: 80%;
+  /* width: 80%; */
   max-width: 75ch;
   padding-bottom: 20px;
   font-size: 1em;
@@ -465,13 +475,13 @@ section{
   padding-top: 10%;
 }
 
-#Beneficios > .title{
+/* #Beneficios > .title{
   color: var(--primary)
-}
+} */
 
 #Beneficios > h1{
   margin-top: 40px;
-  color: var(--primary);
+  /* color: var(--primary); */
 }
 
 #Beneficios > .icon{
@@ -821,7 +831,7 @@ section{
 
 #Equipo > .title{  
   z-index: 1;
-  color: var(--primary)
+  /* color: var(--primary) */
 }
 
 .categories{
