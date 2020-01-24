@@ -637,6 +637,7 @@ section{
 }
 
 #ServiceText > p{
+  padding-top: 40px;
   width: 390px;
   font-size: 1em;
   letter-spacing: 0.15em;
@@ -1219,6 +1220,10 @@ footer .contacCont .contact:last-child{
 }
 
 @media screen and (max-width: 650px){
+  #ServiceText > p{
+    padding-top: 80px;
+  }
+
   #navbar-icon{
     display: flex;
   }
