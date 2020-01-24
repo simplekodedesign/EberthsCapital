@@ -4,10 +4,15 @@ const services_buttons = document.getElementsByClassName("service-more")
 const backButtons = document.getElementsByClassName("backButton")
 const header = document.getElementById("header");
 const inversores = document.getElementsByClassName("inversor")
-const inversoresB= document.getElementById("inversores")
 const analistas = document.getElementsByClassName("analista")
+const fundador = document.getElementsByClassName("Fundador")
+const empresa = document.getElementsByClassName("Empresa")
+const inversoresB= document.getElementById("inversores")
 const analistasB = document.getElementById("analistas")
+const empresaB = document.getElementById("EmpresaB")
+const fundadorB = document.getElementById("FundadorB")
 const team = document.getElementsByClassName("team")
+const quienes = document.getElementsByClassName("empresa")
 const headerButton = document.getElementById("navbar-icon")
 var contactForm = document.getElementById("contactForm")
 var email = document.getElementById("emailForm")
@@ -37,6 +42,24 @@ window.addEventListener("load", function () {
     for(elementSVG of svg){
       svgAnimate(elementSVG)
     }
+  })
+
+  empresaB.addEventListener("click", function (){
+    show(false, fundador)
+    show(true, empresa)
+    for(element of quienes){
+      element.classList.remove("active")
+    }
+    this.classList.add("active")
+  })
+
+  fundadorB.addEventListener("click", function (){
+    show(false, empresa)
+    show(true, fundador)
+    for(element of quienes){
+      element.classList.remove("active")
+    }
+    this.classList.add("active")
   })
 
   inversoresB.addEventListener("click", function (){

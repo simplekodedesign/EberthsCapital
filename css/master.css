@@ -173,6 +173,8 @@ section{
   justify-content: center;
   align-items: center;
   padding: 70px 2% 30px 2%;
+  background-color: black;
+  color: white;
 }
 
 #hero{
@@ -306,7 +308,7 @@ section{
   position: relative;
 }
 
-.heroImg > object{
+.heroImg > img{
   width: 100%;
   position: relative;
   z-index: 2;
@@ -332,6 +334,7 @@ section{
   justify-content: space-around;
   background-color: black;
   color: white;
+  overflow: hidden;
 }
 
 .imgContainer{
@@ -339,15 +342,17 @@ section{
   position: relative;
   min-width: 300px;
   width: 50%;
-  max-width: 600px;
+  max-width: 500px;
   min-height: initial !important;
   justify-content: center !important;
+  max-height: 600px;
   margin: 20px 0;
 }
 
 .imgContainer > img {
   width: 100%;
   height: auto;
+  max-height: 60vh;
   position: relative;
   /* border: 2px solid var(--primary); */
   transition: .5s ease;
@@ -359,14 +364,26 @@ section{
 } */
 
 #Quiensoy div{
-  display: flex;
   min-height: auto;
-  flex-direction: column;
-  justify-content: center;
   margin: 20px 20px;
 }
 
+#Quiensoy > .Fundador,#Quiensoy > .Empresa {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+#Quiensoy > .Fundador{
+  display: none;
+}
+
 #Quiensoy .about{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   /* background-color: #333; */
   padding: 20px 40px 30px 10px;
   min-width: 300px;
@@ -378,7 +395,7 @@ section{
   text-align: justify;
 }
 
-#Quiensoy > .about > p{
+#Quiensoy .about > p{
   word-spacing: .1rem;
   letter-spacing: 1.6px;
 }
@@ -428,8 +445,13 @@ section{
   padding-top: 10%;
 }
 
+#Beneficios > .title{
+  color: var(--primary)
+}
+
 #Beneficios > h1{
   margin-top: 40px;
+  color: var(--primary);
 }
 
 #Beneficios > .icon{
@@ -443,6 +465,7 @@ section{
   margin: 20px;
   min-height: 450px;
   /* max-width: 500px; */
+  /* color: var(--primary); */
 }
 
 #icon-second{
@@ -507,6 +530,8 @@ section{
   flex-direction: column;
   flex-wrap: nowrap;
   position: relative;
+  background-color: initial;
+  color: initial;
 }
 
 #Servicios::after{
@@ -829,7 +854,7 @@ section{
   position: relative;
   margin: 50px 0 100px 0;
   overflow: hidden;
-  box-shadow: 0px 25px 50px -5px;
+  box-shadow: 0px 25px 50px -5px black;
   padding:  30px;
   transition: .5s ease;
   z-index: 2;
