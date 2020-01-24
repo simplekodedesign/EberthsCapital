@@ -352,7 +352,6 @@ section{
 .imgContainer > img {
   width: 100%;
   height: auto;
-  max-height: 60vh;
   position: relative;
   /* border: 2px solid var(--primary); */
   transition: .5s ease;
@@ -378,6 +377,10 @@ section{
 
 #Quiensoy > .Fundador{
   display: none;
+}
+
+.Fundador img {
+  width: 90%;
 }
 
 #Quiensoy .about{
@@ -801,6 +804,7 @@ section{
 
 #Equipo > .title{  
   z-index: 1;
+  color: var(--primary)
 }
 
 .categories{
