@@ -595,7 +595,8 @@ section{
   background-color: #333;
   color: white;
   border-right: 40px solid var(--primary);
-  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
   min-width: 300px;
   width: 50%;
   max-width: 550px;
@@ -605,10 +606,24 @@ section{
   padding: 20px 4% 20px 3%;
   box-shadow: 0px 12px 30px 5px black;
   letter-spacing: .5px;
+  position: relative;
   
   text-align: justify;
   letter-spacing: normal;
   word-spacing: normal;
+}
+
+#ServiceText > h2{
+  position: absolute;
+  top: 50px;
+  width: 200px;
+  font-size: 2em;
+  padding: 10px;
+  border-bottom: 2px solid white;
+  margin-bottom: 40px;
+  text-align: center;
+  font-weight: lighter !important;
+  font-weight: 300;
 }
 
 #ServiceText::before{
@@ -674,7 +689,9 @@ section{
   font-size: 2em;
   padding: 10px 20px;
   position: relative;
-  border: 2px solid white;
+  font-weight: lighter !important;
+  /* border: 2px solid white; */
+  border-bottom: 2px solid white;
 }
 
 #serviceSlogan{
