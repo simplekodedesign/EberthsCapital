@@ -1182,6 +1182,14 @@ footer .contacCont .contact:last-child{
 }
 
 @media screen and (max-width: 1000px){
+  /* #Quiensoy > .Fundador,#Quiensoy > .Empresa {
+    flex-wrap: wrap;
+  }
+
+  #Quiensoy > .Fundador > .imgContainer{
+    width: 30%;
+  } */
+
   #ServiceText > p{
     width: auto;
     text-align: left;
