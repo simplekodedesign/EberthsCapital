@@ -6,10 +6,10 @@
 	.st1{fill:#CEA06E;}
 
 	.animate #gold{
-		animation: dash-black 2s linear 1s forwards;
+		animation: dash-black 2s linear forwards;
 	}
 	.animate #black{
-		animation: dash 2s linear 1s forwards;
+		animation: dash 2s linear forwards;
 	}
 
 	.hand{

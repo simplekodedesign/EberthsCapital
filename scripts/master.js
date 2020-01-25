@@ -96,9 +96,9 @@ function show(display, who){
 }
 
 function svgAnimate(svgDocument){
-  let svgDoc = svgDocument.contentDocument
-  if(svgDocument.getBoundingClientRect().top < 600) {
-    svgDoc.getElementById("graph").classList.add("animate")
+  let svg = svgDocument.contentDocument
+  if(svgDocument.getBoundingClientRect().top < 700) {
+    svg.getElementById("graph").classList.add("animate")
   }
 }
     
