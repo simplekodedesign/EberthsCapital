@@ -97,7 +97,7 @@ function show(display, who){
 
 function svgAnimate(svgDocument){
   let svg = svgDocument.contentDocument
-  if(svgDocument.getBoundingClientRect().top < 400) {
+  if(svgDocument.getBoundingClientRect().top < 600) {
     svg.getElementById("graph").classList.add("animate")
   }
 }
