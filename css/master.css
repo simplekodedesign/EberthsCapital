@@ -996,6 +996,11 @@ section{
 }
 
 .bio ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  height: 80%;
+  width: 100%;
   text-align: left;
   padding-inline-start: 20px;
 }
@@ -1005,6 +1010,7 @@ section{
 }
 
 .bio > h2{
+  height: 2em;
   margin-top: 30px;
 }
 
