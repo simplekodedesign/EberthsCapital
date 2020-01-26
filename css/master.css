@@ -1230,6 +1230,10 @@ footer .contacCont .contact:last-child{
     text-align: center;
   }
 
+  #EquipoContainer > .member{
+    min-height: 550px;
+  }
+
   #ServiceText{
     justify-content: space-between;
     padding-top: 30px;
