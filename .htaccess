@@ -2,6 +2,7 @@
 Redirect 301 /indexEN.html https://eberthscapital.com/En/
 
 AddDefaultCharset utf-8
+CheckSpelling On
 
 #Modificando caches para que duren 1 año 60*60*24*365= 31536000
 FileETag MTime Size
