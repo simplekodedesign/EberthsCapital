@@ -1,7 +1,7 @@
 #redirecciones al sitio en inglés
 #Redirect 301 /indexEN.html https://eberthscapital.com/En/
 RewriteEngine On
-RewriteRule   ^indexEN.html$   https://eberthscapital.com/En/ [L]
+RewriteRule   ^indexEN.html$   /en/ [L]
 
 AddDefaultCharset utf-8
 CheckSpelling On
