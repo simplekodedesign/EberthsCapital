@@ -1,5 +1,6 @@
 
 var animable = document.getElementsByClassName("myAnimatable");
+var body = document.getElementsByTagName("body")[0]
 
 window.addEventListener("load", function () {
     var items = animable.length;
