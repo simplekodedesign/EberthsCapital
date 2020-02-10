@@ -101,8 +101,9 @@ function animate (data) {
 }
 
 function animateScroll (e) {
+    const heightScreen = window.innerHeight
     const bodyHeight = body.getBoundingClientRect().height
-    const scrolled = window.scrollY
+    const scrolled = window.scrollY + heightScreen
     for(var i = 0; i < animable.length; i++) {
         if(animable[i].getBoundingClientRect().top < 600 || scrolled >= bodyHeight) {
             // animable[i].addEventListener("click", animate);
