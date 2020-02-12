@@ -90,7 +90,7 @@ header > div{
 
 header > #logoHeader{
   display: flex;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   align-items: center;
   min-width: 120px;
   height: 100%; min-height: 60px;
