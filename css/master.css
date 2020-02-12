@@ -1216,8 +1216,11 @@ footer .contacCont .contact:last-child{
   justify-content: space-between;
 }
 
-.location{
-  height: 40px;
+#location{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 110px;
 }
 
 .location::before {
