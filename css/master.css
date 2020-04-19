@@ -1220,7 +1220,7 @@ footer .contacCont .contact:last-child{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 110px;
+  height: auto;
 }
 
 .location::before {
