@@ -3,12 +3,12 @@ var pop_up = document.getElementById("popup-servicesContainer")
 const services_buttons = document.getElementsByClassName("service-more")
 const backButtons = document.getElementsByClassName("backButton")
 const header = document.getElementById("header");
-const inversores = document.getElementsByClassName("inversor")
-const analistas = document.getElementsByClassName("analista")
+// const inversores = document.getElementsByClassName("inversor")
+// const analistas = document.getElementsByClassName("analista")
 const fundador = document.getElementsByClassName("Fundador")
 const empresa = document.getElementsByClassName("Empresa")
-const inversoresB= document.getElementById("inversores")
-const analistasB = document.getElementById("analistas")
+// const inversoresB= document.getElementById("inversores")
+// const analistasB = document.getElementById("analistas")
 const empresaB = document.getElementById("EmpresaB")
 const fundadorB = document.getElementById("FundadorB")
 const team = document.getElementsByClassName("team")
@@ -62,26 +62,26 @@ window.addEventListener("load", function () {
     this.classList.add("active")
   })
 
-  inversoresB.addEventListener("click", function (){
-    // show(false, socios)
-    show(false, analistas)
-    show(true, inversores)
-    for(element of team){
-      element.classList.remove("active")
-    }
-    this.classList.add("active")
-  })
+  // inversoresB.addEventListener("click", function (){
+  //   // show(false, socios)
+  //   show(false, analistas)
+  //   show(true, inversores)
+  //   for(element of team){
+  //     element.classList.remove("active")
+  //   }
+  //   this.classList.add("active")
+  // })
 
-   analistasB.addEventListener("click", function (){
-    // show(false, socios)
-    show(true, analistas)
-    show(false, inversores)
+  //  analistasB.addEventListener("click", function (){
+  //   // show(false, socios)
+  //   show(true, analistas)
+  //   show(false, inversores)
 
-    for(element of team){
-      element.classList.remove("active")
-    }
-    this.classList.add("active")
-   })
+  //   for(element of team){
+  //     element.classList.remove("active")
+  //   }
+  //   this.classList.add("active")
+  //  })
 
    for(element of biography){
       element.addEventListener("click", bio)
