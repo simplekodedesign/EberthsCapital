@@ -38,6 +38,7 @@
     <link href="https://eberthscapital,com/" rel="alternate" hreflang="x-default">
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="./ElementsScrollAnimation/ElementsScrollAnimation.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.3.11/tiny-slider.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" rel="stylesheet preconnect">
   </head>
   <body id="body">
@@ -53,6 +54,7 @@
         <a href="#Quiensoy">Quienes somos</a>
         <a href="#Beneficios">Beneficios</a>
         <a href="#Servicios">Servicios</a>
+        <!-- <a href="#Testimonios">Testimonios</a> -->
         <a href="#Equipo">Equipo</a>
         <a href="#Contacto">Contacto</a>
         <ul class="language">
@@ -87,14 +89,15 @@
           <img data-src="img/quienesSomos.jpg" class="lazyload" alt="Who">
         </div>
         <div class="myAnimatable about" my-animation="bounce right">
-            <p>
-              <span class='bold'>EP CAPITAL INVESTMENT</span> nace bajo la gran premisa de establecer un fondo mutuo de múltiples inversiones dentro del Mercado de Divisas Internacional, 
-              ofreciéndole al público interesado la oportunidad de obtener un gran servicio enfocado en inversiones seguras de muy alto nivel y
-              excelentes retornos a corto, mediano y largo plazo.</br> </br> </br>
-            </p>
-  
-            <!-- <i id="phrase">"Lleva 20 años construirse una reputación y 5 minutos destrozarla. Si piensas en ello harás las cosas de forma diferente."</i>  </br>
-            <span id="autor" class="bold">-Warren Buffet.</span> -->
+          <p>
+            <span class='bold'>EP CAPITAL INVESTMENT</span> nace bajo la gran premisa de establecer un fondo mutuo de múltiples inversiones dentro del Mercado de Divisas Internacional, 
+            ofreciéndole al público interesado la oportunidad de obtener un gran servicio enfocado en inversiones seguras de muy alto nivel y
+            excelentes retornos a corto, mediano y largo plazo.</br> </br> </br>
+          </p>
+
+          <!-- <i id="phrase">"Lleva 20 años construirse una reputación y 5 minutos destrozarla. Si piensas en ello harás las cosas de forma diferente."</i>  </br>
+          <span id="autor" class="bold">-Warren Buffet.</span> -->
+          <a class="bold" id="pdfLink" href="./img/EP Capital Investment.pdf" target="_blank" rel="noopener noreferrer">PDF Plan de negocios EPC</a>
         </div>  
       </div>
       <div class="Fundador myAnimatable" my-animation="fade bottom">
@@ -179,7 +182,6 @@
             a través de entidades financieras legalmente reguladas.
           </p>
         </div>
-        
       </div>
       
       <div id="popup-servicesContainer">
@@ -200,7 +202,7 @@
           <div class="plan" id="profesional">
             <h2 class='bold planTitle'>PROFESIONAL</h2>
             <ul>
-              <li>Retornos mensuales: Hasta un 10% de rentabilidad por interés compuesto.</li> </br> 
+              <li>Retornos mensuales: Hasta un 3% de rentabilidad por interés compuesto.</li> </br>
               <li>Reportes: Semanales y Mensuales.</li>
             </ul>
             <h2>Duración: 12 meses.</h2>
@@ -212,8 +214,53 @@
         </div>
       </div>
     </section>
-    
-    
+
+    <!-- <section id="Testimonios">
+      <h2 class="title">Testimonios</h2>
+      <div class="slider-container">
+        <div class="my-slider">
+          <div class="slider-item">
+            <div class="testimonios__card card" my-animation="bounce left">
+              <img class="tns-lazy-img" data-src="img/Test.jpg" alt="testimonial user">
+              <h4>Jhon Doe</h4>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam cupiditate nesciunt delectus consequuntur sint unde perspiciatis repellendus</p>
+            </div>
+          </div>
+
+          <div class='slider-item'>
+            <div class="testimonios__card card" my-animation="bounce left">
+              <img class="tns-lazy-img" data-src="img/Test.jpg" alt="testimonial user">
+              <h4>Jhon Doe</h4>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam cupiditate nesciunt delectus consequuntur sint unde perspiciatis repellendus</p>
+            </div>
+          </div>
+
+          <div class='slider-item'>
+            <div class="testimonios__card card" my-animation="bounce left">
+              <img class="tns-lazy-img" data-src="img/Test.jpg" alt="testimonial user">
+              <h4>Jhon Doe</h4>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam cupiditate nesciunt delectus consequuntur sint unde perspiciatis repellendus</p>
+            </div>
+          </div>
+
+          <div class='slider-item'>
+            <div class="testimonios__card card" my-animation="bounce left">
+              <img class="tns-lazy-img" data-src="img/Test.jpg" alt="testimonial user">
+              <h4>Jhon Doe</h4>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam cupiditate nesciunt delectus consequuntur sint unde perspiciatis repellendus</p>
+            </div>
+          </div>
+      </div>
+      <ul class="controls" id="customize-controls" aria-label="Carousel Navigation" tabindex="0">
+          <li class="prev" data-controls="prev" aria-controls="customize" tabindex="-1">
+            <i class="fas fa-angle-left fa-5x"></i>
+          </li>
+          <li class="next" data-controls="next" aria-controls="customize" tabindex="-1">
+            <i class="fas fa-angle-right fa-5x"></i>          
+          </li>
+      </ul>
+    </section> -->
+
     <section id="Equipo">
       <h2 class="title">EQUIPO</h2>
       <div class="categories">
@@ -224,7 +271,7 @@
       <div id='EquipoContainer'>
         <div class="member inversor myAnimatable" my-animation="bounce bottom">
           <h2>Juan Cañizalez</h2>
-          <img src="img/Juan-PruebaSF.jpg" alt="Juan Cañizalez">
+          <img src="../img/Juan-PruebaSF.jpg" alt="Juan Cañizalez">
           <h2 class="bold">COO</h2>
           <button class="button biography">Experiencia</button>
           <div class="bio">
@@ -297,12 +344,12 @@
         <h4>Sedes de la empresa:</h4>
         <div class="contact" id="location">
           <a class="location">Maracaibo, Venezuela</a>
-          <a class="location">Phoenix, Arizona - Estados Unidos</a>
+          <a class="location">Miami, Florida - Estados Unidos</a>
         </div>
 
-        <div class="contact" id="another">
+        <!-- <div class="contact" id="another">
           <a href="tel:+17867861734" id="number">+1 (786) 786-1734</a>
-        </div>
+        </div> -->
         <div class="contact">
           <a href="mailto:contact@eberthscapital.com" id="email" rel="noreferrer">contact@eberthscapital.com</a>
         </div>
@@ -336,6 +383,7 @@
     <script type="text/javascript" src="./scripts/lazysizes.min.js" async></script>
     <script type="text/javascript" src="./scripts/master.js?q=12344"></script>
     <script type="text/javascript" src="./ElementsScrollAnimation/ElementsScrollAnimation.js?q=3317" async></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.3.11/min/tiny-slider.js" async></script>
     <!--Start of Tawk.to Script-->
     <script rel="preconnect" async type="text/javascript">
       var Tawk_API = Tawk_API||{}, Tawk_LoadStart=new Date();

@@ -86,7 +86,38 @@ window.addEventListener("load", function () {
    for(element of biography){
       element.addEventListener("click", bio)
    }
+
+   const slider = tns({
+    container: '.my-slider',
+    items: 1,
+    slideBy: 1,
+    loop: false,
+    rewind: true,
+    center: false,
+    autoplay: true,
+    speed: 400,
+    autoplayHoverPause: true,
+    autoplayButtonOutput: false,
+    lazyload: true,
+    nav: false,
+    controlsContainer: "#customize-controls",
+    responsive: {
+      320: {
+        items: 1,
+        autoplay: false,
+      },
+      768: {
+        items: 2,
+        autoplay: false,
+      },
+      1000: {
+        items: 3,
+      },
+    }
+  });
 })
+
+
 
 function show(display, who){
   for(element of who){

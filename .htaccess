@@ -10,7 +10,7 @@ CheckSpelling On
 #Modificando caches para que duren 1 año 60*60*24*365= 31536000
 FileETag MTime Size
 ExpiresActive on
-ExpiresDefault "access plus 31536000 seconds"
+ExpiresDefault "access plus 1 seconds"
 
 #Bloqueo de Bots SCROLLDOWN
   RewriteCond %{HTTP_USER_AGENT}  ^^033nachtvandeliteratuur.nl [OR]
