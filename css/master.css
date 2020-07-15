@@ -541,7 +541,7 @@ section{
   align-items: center;
   flex-wrap: nowrap;
   justify-content: flex-end;
-  font-size: .8em;
+  font-size: .7em;
 }
 
 #pdfLink:hover{
@@ -945,7 +945,8 @@ section{
   max-width: 400px;
   width: 27vw;
   min-width: 300px;
-  grid-gap: .7rem;
+  min-height: 100%;
+  grid-gap: .5rem;
   transition: .3s ease;
   box-shadow: inset 3.5em 0 0 0 var(--primary), 0px 15px 2em -5px rgba(158, 158, 158, 0.5);
 }
@@ -989,9 +990,9 @@ section{
 
 .my-slider{
   width: 100%;
-  min-height: 450px;
+  min-height: 400px;
+  height: max-content;
   display: flex;
-  align-items: center;
 }
 
 .slider-container {
@@ -999,7 +1000,8 @@ section{
   padding-left: 3em;
   overflow: hidden;
   border-radius: 5px;
-  position:relative;
+  position: relative;
+  height: max-content;
   width: 100%;
 }
 
@@ -1131,10 +1133,10 @@ section{
   background-color: #333;
   min-width: 300px;
   width: 30%;
-  max-width: 400px;
+  max-width: 900px;
   min-height: 500px;
   height: auto;
-  max-height: 600px;
+  max-height: 1000px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -1184,6 +1186,7 @@ section{
 .member > img{
   width: 50%;
   max-height: 200px;
+  max-width: 200px;
   height: auto;
   border-radius: 50%;
 }
