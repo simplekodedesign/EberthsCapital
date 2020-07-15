@@ -930,8 +930,9 @@ section{
 
 #Testimonios{
   justify-content: space-around;
-  min-height: auto;
+  min-height: 100vh;
   height: auto;
+  align-items: center;
   padding-left: 0;
   padding-right: 0;
 }
@@ -1475,7 +1476,7 @@ footer .contacCont .contact:last-child{
   }
 }
 
-@media screen and (max-width: 650px){
+@media screen and (max-width: 770px){
   #Quiensoy #corpo p{
     width: auto;
     text-align: center;
